@@ -7,17 +7,17 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>NavGurukul</title>
+  <title>Sehatvan</title>
   <link rel="stylesheet" href="{{root}}assets/css/app.css" />
 
   <meta name="author" content="" />
-  <meta property="og:title" content="NavGurukul" />
-  <meta property="og:url" content="http://navgurukul.org" />
-  <meta property="og:image" content="http://navgurukul.org/img/sqlogo.jpg" />
+  <meta property="og:title" content="Sehatvan" />
+  <meta property="og:url" content="http://sehatvan.in" />
+  <meta property="og:image" content="{{root}}assets/img/s/logo.jpg" />
   <meta property="og:description" content="NavGurukul is a non-profit initiative to provide a meaningful alternative to the college education. We train youth from humble backgrounds for free in software programming and other aspirational opportunities."
   />
   <meta name="description" content="NavGurukul is a non-profit initiative to provide meaningful alternative to college education. We train youth from humble backgrounds for free in software programming and other aspirational opportunities." />
-  <link href="https://fonts.googleapis.com/css?family=Mrs+Sheppards%7CDosis:300,400,700%7COpen+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800;" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet"> 
   <link rel="icon" href="{{root}}assets/img/favicon.png" />
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
@@ -31,9 +31,14 @@
 
 <body>
   {{!-- Pages you create in the src/pages/ folder are inserted here when the flattened page is created. --}} {{>navigation}}
-  <main role="main" class="minHeight">
+  <main role="main" class="minHeight px-3">
     {{> body}}
+    
   </main>
+  <div class="col-md-12 text-center py-2 bg-primary">
+    <span class="bottombrand wow flipInX">&copy; 2020 Sehatvan.in</span> <br>
+    <span>Built by <a class="text-warning" href="mailto:madhuranand@live.in">Madhur Anand</a> and <a class="text-warning" href="https://navgurukul.org">NavGurukul</a></span>
+</div>
   {{>footer}}
 
   <script>
@@ -47,12 +52,12 @@
       a.src = g;
       m.parentNode.insertBefore(a, m);
     })(window, document, "script", "https://www.google-analytics.com/analytics.js", "ga");
-    ga("create", "UA-87278976-1", "auto");
+    ga("create", "UA-107719135-1", "auto");
     ga("send", "pageview");
   </script>
 
   <!-- Facebook Pixel Code -->
-	<script>
+	<!--script>
 		  !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 		    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -66,7 +71,7 @@
 	</script>
 	<noscript><img height="1" width="1" style="display:none"
 				       src="https://www.facebook.com/tr?id=831691363937316&ev=PageView&noscript=1"
-	   /></noscript>
+	   /></noscript-->
 	<!-- End Facebook Pixel Code -->
 
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

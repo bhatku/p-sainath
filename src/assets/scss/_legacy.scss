@@ -43,9 +43,9 @@
 
 .im-checkout-btn {
   cursor: pointer;
-  border-color: #f05f40;
+  border-color: #017677;
   color: #fff;
-  background-color: #f05f40;
+  background-color: #017677;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -90,8 +90,8 @@ fieldset[disabled] .im-checkout-btn:active,
 .im-checkout-btn.disabled.active,
 .im-checkout-btn[disabled].active,
 fieldset[disabled] .im-checkout-btn.active {
-  border-color: #f05f40;
-  background-color: #f05f40;
+  border-color: #017677;
+  background-color: #017677;
 }
 
 html,
@@ -131,15 +131,26 @@ section {
 }
 
 .highlightedText {
-  color: #f05f40;
+  color: #017677;
 }
 
 .tocbg {
   background-image: url(../img/childcomp.jpg);
 }
 
+.jumbotron{
+
+  background: linear-gradient(rgba(205, 163, 71, .5),rgba(205, 163, 71, .5)),url(../img/s/banner.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+
+
+}
+
 .logoheader {
-  height: 40px;
+  height: 4em;
+  position:absolute;
+  top:.1em;
 }
 
 img.team {
@@ -203,7 +214,7 @@ img.team {
 }
 
 body {
-  font-family: Open Sans, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Quicksand', 'Helvetica Neue', Arial, sans-serif;
   font-size: 15px;
   color: #777;
   line-height: 1.7;
@@ -211,7 +222,7 @@ body {
 
 hr {
   max-width: 50px;
-  border-color: #f05f40;
+  border-color: #017677;
   border-width: 3px;
 }
 
@@ -220,7 +231,7 @@ hr.light {
 }
 
 a {
-  color: #f05f40;
+  color: #017677;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -237,7 +248,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans','Helvetica Neue','Arial','sans-serif';
+  font-family: 'Quicksand','Helvetica Neue','Arial','sans-serif';
 }
 
 p {
@@ -245,12 +256,13 @@ p {
 }
 
 .btn {
-  padding: 16px 30px;
-  margin-top: 15px;
+  padding: .6em 1em;
+ margin-top: 15px
+  
 }
 
 .bg-primary {
-  background-color: #f05f40 !important;
+  background-color: #017677 !important;
   color: white;
 }
 
@@ -289,7 +301,7 @@ aside {
 
 .navbar-default {
   border-color: rgba(34, 34, 34, .05);
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Quicksand', 'Helvetica Neue', Arial, sans-serif;
   background-color: #fff;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
@@ -306,14 +318,14 @@ aside {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #f05f40 !important;
+  color: #017677 !important;
 }
 
 .navbar-default .navbar-header .navbar-brand {
   /*text-transform:uppercase;*/
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Quicksand', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
-  color: #f05f40;
+  color: #017677;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -326,19 +338,19 @@ aside {
   /*text-transform:uppercase;*/
   font-size: 14px;
   font-weight: 600;
-  font-family: Dosis;
+  font-family: 'Quicksand';
   color: #222;
   letter-spacing: 0.8px;
 }
 
 .navbar-default .nav>li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-  color: #f05f40;
+  color: #017677;
 }
 
 .navbar-default .nav>li.active>a,
 .navbar-default .nav>li.active>a:focus {
-  color: #f05f40!important;
+  color: #017677!important;
   background-color: transparent;
 }
 
@@ -363,10 +375,10 @@ aside {
   }
   .navbar-default .nav>li>a:hover,
   .navbar-default .nav>li>a:focus:hover {
-    color: #f05f40;
+    color: #017677;
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #f05f40;
+    color: #017677;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
@@ -378,7 +390,7 @@ aside {
   }
   .navbar-default.affix .nav>li>a:hover,
   .navbar-default.affix .nav>li>a:focus:hover {
-    color: #f05f40;
+    color: #017677;
   }
 }
 
@@ -507,7 +519,7 @@ img.netbanking {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
-  font-family: Dosis;
+  font-family: 'Quicksand';
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
@@ -656,14 +668,14 @@ fieldset[disabled] .btn-green:active,
 .btn-green.disabled.active,
 .btn-green[disabled].active,
 fieldset[disabled] .btn-green.active {
-  border-color: #f05f40;
-  background-color: #f05f40;
+  border-color: #017677;
+  background-color: #017677;
 }
 
 .btn-primary {
-  border-color: #f05f40;
+  border-color: #017677;
   color: #fff;
-  background-color: #f05f40;
+  background-color: #017677;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -704,12 +716,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  border-color: #f05f40;
-  background-color: #f05f40;
+  border-color: #017677;
+  background-color: #017677;
 }
 
 .btn-primary .badge {
-  color: #f05f40;
+  color: #017677;
   background-color: #fff;
 }
 
@@ -717,7 +729,7 @@ fieldset[disabled] .btn-primary.active {
   border: 0;
   border-radius: 300px;
   text-transform: uppercase;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Quicksand', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -876,7 +888,7 @@ body {
 }
 
 .btn {
-  font-size: 11px;
+  font-size: .8em;
   text-transform: uppercase;
   letter-spacing: 2px;
   border-radius: 3px;
@@ -884,6 +896,10 @@ body {
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
+}
+
+div>button{
+margin-top:0px;
 }
 
 .btn-ghost {
@@ -1335,7 +1351,7 @@ body {
 .wow-pricing-table>div.featured {}
 
 .wow-pricing-table>div.featured .wow-pricing-header {
-  background-color: #f05f40;
+  background-color: #017677;
 }
 
 .wow-pricing-table:hover {
@@ -1413,7 +1429,7 @@ body {
 .featured .wow-pricing-cost,
 .featured .wow-pricing-button .wow-button,
 .buttoncolor {
-  background-color: #f05f40;
+  background-color: #017677;
 }
 
 
@@ -1641,7 +1657,7 @@ h1.bottombrand {
 }
 
 h1.bottombrand:first-letter {
-  color: #f05f40;
+  color: #017677;
 }
 
 input.error,
@@ -1736,7 +1752,7 @@ ul.nav-footer>li a {
 .new_btns {
   text-align: center;
   line-height: 2;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Quicksand', 'Helvetica Neue', Arial, sans-serif;
   letter-spacing: 2px;
   border: 0;
   font-weight: normal;
@@ -1748,4 +1764,23 @@ ul.nav-footer>li a {
   text-transform: uppercase;
   margin-left: 10px;
   padding: 6px 9px;
+}
+
+.footer{
+	position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #e9e7da;
+color: white;
+text-align: center;
+
+
+}	
+
+.btn-lang{
+  cursor: pointer;
+  position: absolute;
+  left:45%;
+  top:.15em;
 }
