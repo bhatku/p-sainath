@@ -2,68 +2,55 @@
   {
     "tab": "about",
     "display": "show active",
-    "name": "About The Program",
+    "name": "About Forest Therapy",
     "set": [
       {
         "show": "show",
-        "ques": "WHAT IS NAVGURUKUL PROGRAM?",
-        "ans": "NavGurukul offers a <b> free one-year residential program for underprivileged students to </b>learn software engineering</b> and get guaranteed high paying aspirational jobs. Apart from software engineering, there is an intense focus on English training and personality development. It is a meaningful alternative to a college for the job-seeking young adults."
+        "ques": "What is Forest Therapy?",
+        "ans": "This is a healing process based on strengthening & calming, cleansing and rejuvenating the body. It helps in rebooting the self-recovery system and also facilitates reversing of diseases."
       },
       {
         "ques": "HOW DOES ONE YEAR EDUCATION AT NAVGURUKUL LOOK LIKE?",
         "ans": "<div>One year at Navgurukul is divided into three key phases:<br><ol> <li style=' margin-top: 5px; '><b>Foundation Bootcamp:</b>The students work on their foundational learning habits for logical and English skills. This lasts for 1-2 months.</li> <li style=' margin-top: 5px; '><b>Coding Camp:</b> This lasts for 5-6 months where the students learn coding skills and continue working on their English and leadership skills </li> <li style=' margin-top: 5px; '><b>Interview Camp:</b> This lasts for 1-2 months where the students practice working in an office environment on Navgurukul campus and work on their resumes, interview skills and give interviews in companies.</li></ol> </div>"
       },
+
       {
-        "ques": "WHO IS THIS PROGRAM FOR?",
-        "ans": "This program is for youth from underserved or low-income communities who can’t afford or access college education. We also take students who have done college degrees but can’t get a good job becauseof lack of their social and economic means. Anyone who is above 16 years of age and can clear our 10th grade level maths test and interviews, can get into this program. Our current students come from low-income and socially marginalized communities where family incomes are often less than 15000 (in urban areas) and 8000 (in rural areas). Navgurukul is for the students who don’t have easy access to growth opportunities in the job market but have a desire to be successful. Many of our current students have parents working as househelp, auto-drivers, from orphanages etc."
-      },
-      {
-        "ques": "WHAT THINGS DO STUDENTS LEARN AT NAVGURUKUL?",
-        "ans": "Students learn Software engineering during one year like how to make mobile applications such as Whatsapp, Facebook and website by different programming languages for both front end and back end web development. The technology curriculum includes following coding languages: Python, JavaScript, Java, Node.js and React.js. Apart from that to get a standard job in corporates we provide them with a platform where they can build leadership, management, emotional intelligence, team-work skills and English speaking skills. These skills help in the overall development of an individual."
-      },
-      {
-        "ques": "WHERE IS THIS RESIDENTIAL PROGRAM?",
-        "ans": "<div>We have two campuses, one is in Bangalore for girls and second in Dharamshala (Himachal) for Boys.Here is an address for both the campuses:-<br><ol> <li style=' margin-top: 5px; '><b>Pune Girls Campus:</b> Address to be updated. Starting May 1, 2020 .</li> <li style=' margin-top: 5px; '><b>Bangalore Girls Campus:</b> ​ ​ 45/1, 45/2, Avalahalli Huskur Panchayath, Sarjapura Hobli, Anekal Taluk Dist, Bengaluru, Karnataka 560099.</li> <li style=' margin-top: 5px; '><b>Dharamshala Boys Campus:</b> ​Ward number 202, Sukkhad (Garh, Dharamshala, Himachal Pradesh 176057.</li></ol> </div>"
-      },
-      {
-        "ques": "WHAT ARE THE FACILITIES PROVIDED BY NAVGURUKUL?",
-        "ans": "The residential campuses are equipped with facilities needed for living i.e shared dorms, beds, fully functional kitchen, and other amenities. In each facility, there are classrooms and residential spaces. We provide all the facilities which are necessary to become a good Software engineer such as Laptop, Internet, mentoring by experts/professionals, English classes, mental health counselling. All the expenses are paid by Navgurukul until a student gets a job."
-      },
-      {
-        "ques": "DO STUDENTS HAVE TO PAY ANYTHING?",
-        "ans": "This is a free course - we don’t charge anything for it. But we work on the value of givingness. If a student gets a job we encourage her to take responsibility for supporting another student’s education at Navgurukul. Most of our alumni donate INR ~1 Lac to Navgurukul in small installments within 2 to 2.5 years after getting a job."
-      },
-      {
-        "ques": "WHAT IS THE LIFESTYLE AND CULTURE AT NAVGURUKUL?",
-        "ans": "The students are responsible to take care of activities in the residential campus. With the help of facility in-charge, students divide themselves into discipline, budget, and learning councils. Each council takes care of the efficient working of the residence campus and learning. Starting the day at the morning circle they set their learning targets for the day and also resolve their challenges.During the day they divide their time between working on real world projects with their peers, understanding the hindi curriculum and getting help from their mentors.There are a lot of fun activities which focus on skills like english learning and becoming a more aware human. The culture of Navgurukul is driven by empathy and inclusivity. We strongly believe in being compassionate and understanding towards each other by offering safe-space for dialogue, open-mindedness, and respectful disagreement. We constantly work towards diversity in terms of caste, class, gender, and life experiences. We believe in listening and understanding from each other’s lived experiences and world views. We believe in growing together and thus, take responsibility for each other’s learning and growth."
+        "ques": "What is the process / daily routine?",
+        "ans": "The process of Sehatvan is continuously being developed. At the moment it is a 3-step process: 1. Strengthening and Calming, 2. Cleansing, 3. Recovery. Strengthening and Calming is done in the first stage, second is the cleansing and in the third phase the body / mind is re-booted, it is renewed. For this, we use three tools - Community Living, Nature and Autophagy (Fasting). In everyday life, we do deep relaxation, workout, sun-bath and fasting according to need. <br>You can request module specific booklets by sending an email to sehatvan@gmail.com"
       }
+     
     ]
   },
   {
     "tab": "Admissions",
-    "name": "Admissions",
+    "name": "About Sehatvan",
     "set": [
       {
         "show": "show",
-        "ques": "WHAT IS THE ADMISSION CRITERIA?",
-        "ans": "Any applicant who is above 16 years of age and can clear test and interviews based on 10th level Maths and 8th level, they can become part of Navgurukul. Our current students have different education levles - school dropouts, college drop outs, 10th or 12th pass, people going to colleges for BSc, BA, BTech. A person can be from commerce, arts or science and still learn coding with us. The knowledge of coding is also not necessary. Just 10th level maths and some English will be good.</br> All of our students come from families with monthly incomes of less than 15,000 INR in urban areas and 10,000 INR in rural areas."
+        "ques": "Is this a medical institution?",
+        "ans": " No, this is not a medical institution. It is a self-healing community space (ashram) to improve health, fitness and biological age."
       },
       {
-        "ques": "HOW TO GET ADMISSION IN NAVGURUKUL?",
-        "ans": "<div> Each applicant has to go through four steps during the admission process - all of this is completed within a week of the student taking the first test:<br> <ol> <li style=' margin-top: 5px; '><b> Maths Written Test: </b> It contains questions on 8th-10th grade maths on four topics: ratios and proportions, unitary method, percentages, and basic algebra. This test is 1.5 hrs long. The students can give the test on their smartphone or laptops on admissions.navgurukul.org . If a student doesn’t have phone, an NGO/School can conduct the test for interested students</li> <li style=' margin-top: 5px; '><b>English Interview:</b>Once a student clears the written test, they will get a call within 2 days for taking their English Interview. In this interview, the interviewer will talk about general things to the applicant for 10-15 minutes. Here assessment will be done on checking the levels of fluency, grammar, sentence structure and confidence. Imperfect English is acceptable.</li> <li style=' margin-top: 5px; '><b> Algebra Interview: </b> If the second step is cleared, a 40-50 mins telephonic interview will be taken to test the applicant’s knowledge about basic algebra (linear equations). The applicant will be asked 3-4 algebra questions and will be asked to explain how to solve them.</li> <li style=' margin-top: 5px; '><b> Culture-Fit Interview: </b> If all the above is cleared, a 30 mins telephonic interview will be taken to understand whether the applicant will enjoy Navgurukul’s community and learning culture. This conversation would be centered around your upbringing, your family background, your beliefs and understanding about social issues etc.</li> </ol> </div>"
+        "ques": "Is this a Naturopathy Center?",
+        "ans": "No. It is not a Center for Naturopathy. Activities that are usually done in Naturopathy Centers are not here."
       },
       {
-        "ques": "HOW TO GIVE ADMISSION TEST?",
-        "ans": "<div> <ol> <li style=' margin-top: 5px; '><b>ONLINE : </b> The students can give the test on their smartphone by calling or laptop using admissions.navgurukul.org</li> <li style=' margin-top: 5px; '><b>OFFLINE :</b> :A non-profit organisation, school, college or some other group can conduct a test for interested applicants. We send them a question paper and instructions to conduct the test. Once the test is over, the person-in-charge has to email us to the pictures of the answer sheets. The interviews happen on phone or whatsapp video calls.</li> </ol> </div>"
+        "ques": "Is Dr. Vipin Gupta a medical doctor?",
+        "ans": "No, Dr. Vipin Gupta is not a medical doctor. He is a M.Pharm, Ph.D., a Drug Discovery Scientist, and has researched in Europe and America, apart from India."
       },
       {
-        "ques": "IS THERE UPPER AND MINIMUM AGE LIMIT FOR ADMISSION?",
-        "ans": "We take 16+ students. We don’t have any upper age limit for students. Right now, our students are in the age bracket of 17-28 years old."
+        "ques": "Is there a medical doctor available? ",
+        "ans": "No, there is no medical doctor available at Sehatvan. Participants are expected to keep in touch with their doctor on the phone. Those who require continuous medical supervision can’t be accommodated."
       },
       {
-        "ques": "HOW CAN STUDENTS PREPARE FOR THE ADMISSION TEST?",
-        "ans": "The test is fully based on 9-10th level mathematics. It involves basic algebra problems and logical problem solving. So revising these concepts would be enough. The test is fairly simple than many entrance exams.  There are going to be easy/medium level hard questions for the following topics:<b> number patterns </b>(like 2, 7, 12, 17, __ what's the next number?), <b> ratios/proportions </b> (  10% of the solution is lemon. much  ml o f lemon should we add in the new solution such that 20% of the new solution is lemon?)  ,  <b>unitary method, and basic algebra linear equations</b> etc. An applicant can use following study guide to prepare for our admission test.<br>"
+        "ques": "What facilities are available?",
+        "ans": "<p>Facilities in Sehatvan are nominal, our effort is to make as little luxury as possible. Ideally, we want to be in a completely natural environment, in an environment that does not any use industrial / commercial things. There are mud-houses made of clay and bamboo for living and composting-toilets. Kitchen has a gas stove.</p><p>        There are no servants at Sehatvan, everyone has to do their own work. Those who do not like to wash and clean the utensil should not join.</p>"
+      },
+      {
+        "ques": "What are you supposed to bring?",
+        "ans": "Sometimes you have to walk 1 km to reach the Sehatvan, so you should bring as less things as possible, which you can carry on your own. Some things that need to be brought - bed sheets (2), blankets / sleeping bags (in winter), flashlight, umbrella, two pairs of clothes that you can work without fear of getting dirty. Apart from this, you should also bring your medical reports and medicines together."
       }
+      
     ]
   },
   {
