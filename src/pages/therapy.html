@@ -1,11 +1,11 @@
 <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
-  <div class="container">
-    <h2 class="mb-3 text-dark text-center ">Frequently Asked Questions</h2>
-    <div class="container">
+  <div class="">
+    <h2 class="mb-3 text-dark text-center ">Forest Therapy Modules</h2>
+    <div class="">
       <div class="row">
         <div class="col-lg-3">
           <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
-            {{#each faqs2 as |category|}}
+            {{#each therapy as |category|}}
             <a href="#{{category.tab}}" class="nav-link text-primary" data-toggle="pill" role="tab"
               aria-controls="{{category.tab}}" aria-selected="false">
               {{#lang category.name}}{{/lang}}
@@ -15,11 +15,32 @@
         </div>
         <div class="col-lg-8 mb-3 ">
           <div class="tab-content border" id="faq-tab-content">
-            {{#each faqs2 as |category|}}
+            {{#each therapy as |category|}}
             <div class="tab-pane  {{category.display}}" id="{{category.tab}}" role="tabpanel"
               aria-labelledby="{{category.tab}}">
               <div class="accordion" id="{{category.tab}}">
                 <h3 class="mt-4 text-dark text-center text-capitalize">{{#lang category.name}}{{/lang}}</h3>
+                <hr>
+                <div class="mx-3">
+                <p>Recommended Duration: <br> 
+                A) At Sehatvan(Forest Protocol): <br> <strong>{{category.forest}} </strong> <br>
+                + <br>
+                B)Home Protocol: <strong>{{category.home}}</strong> <br>
+                ({{category.followup}} followup visits/calls)
+              
+                </p>
+                <p>
+                  Fee Contribution:<br>
+
+							Indian Participants: <br> <strong>{{category.indian}}</strong> <br>
+							International Participants: <br><strong>{{category.foreign}}</strong> <br> <br>
+							<u>Refund Policy:</u> <br>
+							
+							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
+							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+
+                </p>
+              </div>
                 <div class="card ">
                   {{#each category.set as |qna|}}
                   <div class="card-header">

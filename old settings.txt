@@ -1,3 +1,5 @@
 old settings
 
 ng primary color f05f40
+
+how to rename extension ren *.jpg *.JPG

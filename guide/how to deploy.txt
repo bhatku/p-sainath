@@ -1,0 +1,15 @@
+How to deploy p-sainath?
+
+push your changes to github
+
+CONNECT YOUR REPO TO TRAVIS.
+
+https://­travis-encrypt.github­.io/
+1. Generate a personal access token from here - https://github.com/­settings/tokens
+give repo permission
+GITHUB_TOKEN is the VARNAME
+varvalue is the "token" - 
+
+COPY THE ENCRYPTED DATA AND REPLACE IT TO TRAVIS.YML - ENV:GLOBAL:SECURE
+
+TRIGGER BUILD, IT SHOULD BUILD AUTOMATICALL.

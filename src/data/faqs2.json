@@ -1,0 +1,93 @@
+[
+  {
+    "tab": "about",
+    "display": "show active",
+    "name": "About Forest Therapy",
+    "set": [
+      {
+        "show": "show",
+        "ques": "What is Forest Therapy?",
+        "ans": "This is a healing process based on strengthening & calming, cleansing and rejuvenating the body. It helps in rebooting the self-recovery system and also facilitates reversing of diseases."
+      },
+      {
+        "ques": "How are diseases treated?",
+        "ans": "Diseases are not treated at Sehatvan; instead, health is enhanced, which causes diseases to disappear automatically."
+      },
+      {
+        "ques": "Who can do it?",
+        "ans": "This programme is suitable for healthy people as well as those suffering from diseases. Healthy people can benefit by increasing their stamina and health-span while people suffering from ailments can reverse their diseases."
+      },
+      {
+        "ques": "Which diseases is the process helpful in?",
+        "ans": "Diabetes, BP(Hypertension), Heart issues, Stress, Thyroid, Obesity(weight-loss), Cancer(early stage & prevention), PCOD and other lifestyle and autoimmune diseases."
+      },
+      {
+        "ques": "What is the procedure? How long does it take?",
+        "ans": "This process of Forest Therapy has been developed by health scientist Dr. Vipin Gupta and is based on CNA (Community-living, Nature and Autophagy) which can be done at Sehatvan. The duration progresses differently for everyone, based on your current health and healing ability."
+      },
+      {
+        "ques": "About Dr. Vipin Gupta",
+        "ans": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> A <strong>drug discovery scientist</strong>, he spent over two decades developing new medicines for various pharma companies in India, Europe and America. In 2011 he was invited by The Royal Swedish Academy of Sciences at Nobel Museum, Stockholm to represent Southeast Asia. He co-founded a research publishing company ‘Inventi’ in 2010 and a self-healing space ‘Sehatvan’ in 2016. <p> ‘Sahaj Sehat’ series carries the viewpoints of how body’s auto-repair capabilities can make use of medicines redundant in lifestyle diseases. </p>"
+      },
+      {
+        "ques": "What is the process / daily routine?",
+        "ans": "The process of Sehatvan is continuously being developed. At the moment it is a 3-step process: 1. Strengthening and Calming, 2. Cleansing, 3. Recovery. Strengthening and Calming is done in the first stage, second is the cleansing and in the third phase the body / mind is re-booted, it is renewed. For this, we use three tools - Community Living, Nature and Autophagy (Fasting). In everyday life, we do deep relaxation, workout, sun-bath and fasting according to need. <br>You can request module specific booklets by sending an email to sehatvan@gmail.com"
+      }
+      
+     
+     
+    ]
+  },
+  {
+    "tab": "Admissions",
+    "name": "About Sehatvan",
+    "set": [
+      {
+        "show": "show",
+        "ques": "Is this a medical institution?",
+        "ans": " No, this is not a medical institution. It is a self-healing community space (ashram) to improve health, fitness and biological age."
+      },
+      {
+        "ques": "Is this a Naturopathy Center?",
+        "ans": "No. It is not a Center for Naturopathy. Activities that are usually done in Naturopathy Centers are not here."
+      },
+      {
+        "ques": "Is Dr. Vipin Gupta a medical doctor?",
+        "ans": "No, Dr. Vipin Gupta is not a medical doctor. He is a M.Pharm, Ph.D., a Drug Discovery Scientist, and has researched in Europe and America, apart from India."
+      },
+      {
+        "ques": "Is there a medical doctor available? ",
+        "ans": "No, there is no medical doctor available at Sehatvan. Participants are expected to keep in touch with their doctor on the phone. Those who require continuous medical supervision can’t be accommodated."
+      },
+      {
+        "ques": "What facilities are available?",
+        "ans": "<p>Facilities in Sehatvan are nominal, our effort is to make as little luxury as possible. Ideally, we want to be in a completely natural environment, in an environment that does not any use industrial / commercial things. There are mud-houses made of clay and bamboo for living and composting-toilets. Kitchen has a gas stove.</p><p>        There are no servants at Sehatvan, everyone has to do their own work. Those who do not like to wash and clean the utensil should not join.</p>"
+      },
+      {
+        "ques": "What are you supposed to bring?",
+        "ans": "Sometimes you have to walk 1 km to reach the Sehatvan, so you should bring as less things as possible, which you can carry on your own. Some things that need to be brought - bed sheets (2), blankets / sleeping bags (in winter), flashlight, umbrella, two pairs of clothes that you can work without fear of getting dirty. Apart from this, you should also bring your medical reports and medicines together."
+      },
+      {
+        "ques": "What not to bring?",
+        "ans": "Sehatvan is a very simple and eco-friendly place, do not bring following items: <ol> <li>Costly Jewelery and electronics</li> <li>Plastic bags and disposables, Packaged food</li> <li>Chemical based soaps, shampoo, tooth paste, etc. </li> <li>Any kind of intoxication or smoking goods</li> </ol>"
+      },
+      {
+        "ques": "Public transport to reach Sehatvan?",
+        "ans": "<p>From Bhopal Railway Station - Arrive to Nadra Bus Stand (300 m). Take the Vidisha going bus and get own at Sukhi Sewaniyan village.</p><p> Take a sharing auto from Sukhi sewaniyan bus stop to Amoni Village. Get down at the downhill/ghaati, as the auto wala that you want to go to aamkhoh.</p>"
+      },
+      {
+        "ques": "What is the refund policy?",
+        "ans": "<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the space."
+      },
+      {
+        "ques": "Can we bring kids? What is the contribution amount for kids?",
+        "ans": "<p>Usually, kids enjoy being at Sehatvan and learn a lot with Nature. But sometimes they miss urban facilities and snacks. </p> <p> The contribution amount for kids under 10 years is 50% of the amount for adults. For Teenagers, see our Teenage Health Module <br> <br> Please note it takes extra effort to make the space child-friendly and they require much more 'entertaining' than adults. Milk is not part of our pantry, you can arrange it from nearby village (1km). You can cook food of their choice when kitchen is free. Market snacks are not allowed. </p>"
+      },
+      {
+        "ques": "Are there animals?",
+        "ans": "<p>We have a cat - Tendu. There are squirrels, lizards, insects and birds in vicinity. Snakes and scorpions are also present but they stay away from human areas and we provide training to keep yourself safe. Our dogs and cat keep insects and reptiles away from stay areas. </p> <p> Animals are important part of maintaining the biodiversity at Sehatvan. They also control excess of any insects like mosquitos. We only have mosquitos for a total of 30-40 days a year, and they disappear in a few days."
+      }
+    ]
+  }
+ 
+]

@@ -38,7 +38,8 @@ lg: 992px,
 xl: 1140px) !default;
 
 $theme-colors: (
-  primary: #017677 
+  primary: #017677
+  
 );
 
 @include _assert-ascending($grid-breakpoints, "$grid-breakpoints");

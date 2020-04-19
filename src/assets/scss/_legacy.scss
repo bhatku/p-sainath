@@ -216,13 +216,13 @@ img.team {
 body {
   font-family: 'Quicksand', 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
-  color: #777;
+  color: #000;
   line-height: 1.7;
 }
 
 hr {
   max-width: 50px;
-  border-color: #017677;
+  border-color: #f4dd0c;
   border-width: 3px;
 }
 
@@ -336,10 +336,10 @@ aside {
 .navbar-default .nav>li>a,
 .navbar-default .nav>li>a:focus {
   /*text-transform:uppercase;*/
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: 700;
   font-family: 'Quicksand';
-  color: #222;
+  color: #111;
   letter-spacing: 0.8px;
 }
 

@@ -6,19 +6,75 @@
     "set": [
       {
         "show": "show",
-        "ques": "What is Forest Therapy?",
-        "ans": "This is a healing process based on strengthening & calming, cleansing and rejuvenating the body. It helps in rebooting the self-recovery system and also facilitates reversing of diseases."
+        "ques": {
+          "en": "What is Forest Therapy?",
+          "hi": "फॉरेस्ट थेरेपी क्या है?"
+        },
+        "ans": {
+          "en": "This is a healing process based on strengthening & calming, cleansing and rejuvenating the body. It helps in rebooting the self-recovery system and also facilitates reversing of diseases.",
+          "hi": "यह तनाव-मुक्तता, विष-मुक्तता और पुनर्नवन पर आधारित एक प्रणाली है जिससे शरीर का सेल्फ-रिपेयर सिस्टम रीबूट हो जाता है और बीमारियाँ तिरोहित होने लगती हैं।"
+        }
       },
       {
-        "ques": "HOW DOES ONE YEAR EDUCATION AT NAVGURUKUL LOOK LIKE?",
-        "ans": "<div>One year at Navgurukul is divided into three key phases:<br><ol> <li style=' margin-top: 5px; '><b>Foundation Bootcamp:</b>The students work on their foundational learning habits for logical and English skills. This lasts for 1-2 months.</li> <li style=' margin-top: 5px; '><b>Coding Camp:</b> This lasts for 5-6 months where the students learn coding skills and continue working on their English and leadership skills </li> <li style=' margin-top: 5px; '><b>Interview Camp:</b> This lasts for 1-2 months where the students practice working in an office environment on Navgurukul campus and work on their resumes, interview skills and give interviews in companies.</li></ol> </div>"
+        "ques": {
+          "en": "How are diseases treated?",
+          "hi": "यहाँ बीमारियों का इलाज़ कैसे किया जाता है?"
+        },
+        "ans": {
+          "en": "Diseases are not treated at Sehatvan; instead, health is enhanced, which causes diseases to disappear automatically.",
+          "hi": "सेहतवन में बीमारियों का इलाज़ नहीं किया जाता है, यहाँ सेहत को उभारा जाता है जिससे बीमारियाँ अपने आप गायब होने लगती हैं।"
+        }
       },
-
       {
-        "ques": "What is the process / daily routine?",
-        "ans": "The process of Sehatvan is continuously being developed. At the moment it is a 3-step process: 1. Strengthening and Calming, 2. Cleansing, 3. Recovery. Strengthening and Calming is done in the first stage, second is the cleansing and in the third phase the body / mind is re-booted, it is renewed. For this, we use three tools - Community Living, Nature and Autophagy (Fasting). In everyday life, we do deep relaxation, workout, sun-bath and fasting according to need. <br>You can request module specific booklets by sending an email to sehatvan@gmail.com"
+        "ques": {
+          "en": "Who can do it?",
+          "hi": "इसे कौन कर सकता है?"
+        },
+        "ans": {
+          "en": "This programme is suitable for healthy people as well as those suffering from diseases. Healthy people can benefit by increasing their stamina and health-span while people suffering from ailments can reverse their diseases.",
+          "hi": "इसे स्वस्थ और बीमार दोनों तरह के लोग कर सकते हैं। इससे स्वस्थ लोगों का हैल्थ-स्पान बढ़ता है और बीमार लोग स्वस्थ होने लगते हैं।"
+        }
+      },
+      {
+        "ques": {
+          "en": "Which diseases is the process helpful in?",
+          "hi": "किन बीमारियों में लोगों ने लाभ लिया है?"
+        },
+        "ans": {
+          "en": "Diabetes, BP(Hypertension), Heart issues, Stress, Thyroid, Obesity(weight-loss), Cancer(early stage & prevention), PCOD and other lifestyle and autoimmune diseases.",
+          "hi": "डाईबीटीज़, हार्ट-इशू, बीपी, थाईराइड, ओबेसिटी(वेट लॉस), तनाव, कैंसर (अर्ली स्टेज एवं प्रेवेंशन), PCOD, एसिडिटि, अर्थराइटिस, कमर दर्द और अन्य लाइफस्टाइल एवं ऑटो-इम्यून बीमारियाँ।"
+        }
+      },
+      {
+        "ques": {
+          "en": "What is the procedure? How long does it take?",
+          "hi": "इसमें करते क्या हैं? कितना समय लगता है?"
+        },
+        "ans": {
+          "en": "This process of Forest Therapy has been developed by health scientist Dr. Vipin Gupta and is based on CNA (Community-living, Nature and Autophagy) which can be done at Sehatvan. The duration progresses differently for everyone, based on your current health and healing ability.",
+          "hi": "यह स्वास्थ्य विज्ञानी डा. विपिन गुप्ता द्वारा आविष्कारित CNA (कम्यूनिटी-लिविंग, नेचर, ऑटोफैजी) प्रणाली है जिसे सेहतवन में रहकर किया जाता है, यह अलग-अलग लोगों के लिए अलग-अलग हो सकती है। हाफ-कोर्स की अवधि: 7 दिन की होती है और फुल-कोर्स में 2 से 4 सप्ताह लगते हैं।"
+        }
+      },
+      {
+        "ques": {
+          "en": "About Dr. Vipin Gupta",
+          "hi": "डॉ विपिन गुप्ता के बारे में:"
+        },
+        "ans": {
+          "en": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> A <strong>drug discovery scientist</strong>, he spent over two decades developing new medicines for various pharma companies in India, Europe and America. In 2011 he was invited by The Royal Swedish Academy of Sciences at Nobel Museum, Stockholm to represent Southeast Asia. He co-founded a research publishing company ‘Inventi’ in 2010 and a self-healing space ‘Sehatvan’ in 2016. <p> ‘Sahaj Sehat’ series carries the viewpoints of how body’s auto-repair capabilities can make use of medicines redundant in lifestyle diseases. </p>",
+          "hi": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> दृग डिस्कवरी वैज्ञानिक के रूप में दो दशकों के दौरान भारत, यूरोप, अमेरिका की विभिन्न फार्मा कंपनियों के लिए नई दवाइयों को विकसित करने का काम किया। 2011 में आपको रॉयल स्वीडिश अकादेमी ऑफ साइंसेस ने नोबेल म्यूज़ियम, स्टॉकहोम में दक्षिण पूर्वी एशिया का प्रतिनिधित्व करने के लिए आमंत्रित किया। आपने 2010 एक रिसर्च पब्लिशिंग कंपनी – ‘Inventi’ और 2016 में एक सेल्फ हीलिंग स्पेस ‘सेहतवन’ का सह-संस्थापन किया।</p> <p > ‘सहज सेहत’ श्रंखला इस सोच को प्रस्तुत करती है कि कैसे शरीर की ऑटो-रिपेयर क्षमताओं से लाइफ़स्टाइल बीमारियों को हमेशा के लिए खत्म किया जा सके। </p>"
+        }
+      },
+      {
+        "ques": {
+          "en": "What is the process / daily routine?",
+          "hi": "प्रक्रिया/ डेली रूटीन क्या है?"
+        },
+        "ans": {
+          "en": "The process of Sehatvan is continuously being developed. At the moment it is a 3-step process: 1. Strengthening and Calming, 2. Cleansing, 3. Recovery. Strengthening and Calming is done in the first stage, second is the cleansing and in the third phase the body / mind is re-booted, it is renewed. For this, we use three tools - Community Living, Nature and Autophagy (Fasting). In everyday life, we do deep relaxation, workout, sun-bath and fasting according to need. <br>You can request module specific booklets by sending an email to sehatvan@gmail.com",
+          "hi": "सेहतवन की प्रक्रिया अभी विकसित हो रही है। फिलहाल यह एक 3-स्टेप प्रोसेस है: 1. तनाव-मुक्तता, 2. विष-मुक्तता, 3. पुनर्नवन। पहले चरण में डि-स्ट्रेस किया जाता है, दूसरे मे डि-टोक्स और तीसरे चरण में बॉडी/माइंड को री-बूट लिया जाता है, नया किया जाता है। इसके लिए हम तीन टूल्स का इस्तेमाल करते हैं – कम्यूनिटी लिविंग, नेचर और ऑटोफैजी (उपवास)। रोज़मर्रा में हम जरूरत के हिसाब से विश्राम, श्रम, सन-बाथ और उपवास करते हैं।"
+        }
       }
-     
     ]
   },
   {
@@ -27,70 +83,114 @@
     "set": [
       {
         "show": "show",
-        "ques": "Is this a medical institution?",
-        "ans": " No, this is not a medical institution. It is a self-healing community space (ashram) to improve health, fitness and biological age."
+        "ques": {
+          "en": "Is this a medical institution?",
+          "hi": "क्या सेहतवन मेडिकल संस्थान है?"
+        },
+        "ans": {
+          "en": "No, this is not a medical institution. It is a self-healing community space (ashram) to improve health, fitness and biological age.",
+          "hi": "नहीं, सेहतवन मेडिकल संस्थान नहीं है। यह सेहत-आयु या फ़िटनेस सुधारने के लिए एक सेल्फ-हीलिंग कम्यूनिटी स्पेस (आश्रम) है।"
+        }
       },
       {
-        "ques": "Is this a Naturopathy Center?",
-        "ans": "No. It is not a Center for Naturopathy. Activities that are usually done in Naturopathy Centers are not here."
+        "ques": {
+          "en": "Is this a Naturopathy Center?",
+          "hi": "क्या सेहतवन नैचुरोपैथी सेंटर है?"
+        },
+        "ans": {
+          "en": "No. It is not a Center for Naturopathy. Activities that are usually done in Naturopathy Centers are not here.",
+          "hi": "नहीं, सेहतवन नैचुरोपैथी सेंटर नहीं है। यहाँ पर आमतौर से नैचुरोपैथी सेंटर्स में करवाए जाने वाली क्रियाएँ नहीं की जाती हैं।"
+        }
       },
       {
-        "ques": "Is Dr. Vipin Gupta a medical doctor?",
-        "ans": "No, Dr. Vipin Gupta is not a medical doctor. He is a M.Pharm, Ph.D., a Drug Discovery Scientist, and has researched in Europe and America, apart from India."
+        "ques": {
+          "en": "Is Dr. Vipin Gupta a medical doctor?",
+          "hi": "क्या डॉ. विपिन गुप्ता मेडिकल डॉक्टर हैं?"
+        },
+        "ans": {
+          "en": "No, Dr. Vipin Gupta is not a medical doctor. He is a M.Pharm, Ph.D., a Drug Discovery Scientist, and has researched in Europe and America, apart from India.",
+          "hi": "नहीं, डा विपिन गुप्ता मेडिकल डॉक्टर नहीं है। वे एम फार्म, पीएचडी हैं, दवाइयों के विशेसज्ञ (ड्रग डिस्कवरी साइंटिस्ट) हैं और भारत के अलावा योरोप और अमेरिका में शोध कर चुके हैं।"
+        }
       },
       {
-        "ques": "Is there a medical doctor available? ",
-        "ans": "No, there is no medical doctor available at Sehatvan. Participants are expected to keep in touch with their doctor on the phone. Those who require continuous medical supervision can’t be accommodated."
+        "ques": {
+          "en": "Is there a medical doctor available? ",
+          "hi": "क्या सेहतवन में कोई मेडिकल डॉक्टर उपलब्ध रहता है?"
+        },
+        "ans": {
+          "en": "No, there is no medical doctor available at Sehatvan. Participants are expected to keep in touch with their doctor on the phone. Those who require continuous medical supervision can’t be accommodated.",
+          "hi": "नहीं, सेहतवन में कोई मेडिकल डॉक्टर उपलब्ध नहीं रहता है। पार्टीसिपेंट्स से अपेक्षित है कि वे अपने डॉक्टर से फोन पर संपर्क बनाए रहें। जिन्हें सतत मेडिकल निगरानी की जरूरत है उन्हें सेहतवन नहीं आना चाहिए।"
+        }
       },
       {
-        "ques": "What facilities are available?",
-        "ans": "<p>Facilities in Sehatvan are nominal, our effort is to make as little luxury as possible. Ideally, we want to be in a completely natural environment, in an environment that does not any use industrial / commercial things. There are mud-houses made of clay and bamboo for living and composting-toilets. Kitchen has a gas stove.</p><p>        There are no servants at Sehatvan, everyone has to do their own work. Those who do not like to wash and clean the utensil should not join.</p>"
+        "ques": {
+          "en": "What facilities are available?",
+          "hi": "क्या-क्या सुविधाएं हैं?"
+        },
+        "ans": {
+          "en": "<p>Facilities in Sehatvan are nominal, our effort is to make as little luxury as possible. Ideally, we want to be in a completely natural environment, in an environment that does not any use industrial / commercial things. There are mud-houses made of clay and bamboo for living and composting-toilets. Kitchen has a gas stove.</p><p>        There are no servants at Sehatvan, everyone has to do their own work. Those who do not like to wash and clean the utensil should not join.</p>",
+          "hi": "सेहतवन में सुविधाएं नाममात्र की हैं, हमारी कोशिश होती है कि जितनी कम सुविधा में हो सके रहा जाए। आइडिअली तो हम पूर्ण-प्राकृतिक वातावरण में रहना चाहते हैं, ऐसे वातावरण में जिसमें इंडस्ट्रियल/ बाज़ारू चीजों का उपयोग न हो। सेहतवन में रहने के लिए मिट्टी और बांस से बने मड-हाउस हैं और लेट्रिन के लिए कंपोस्टिंग-टॉइलेट हैं। किचिन में गैस चूल्हा है।</p> <p> सेहतवन में कोई सर्वेट नहीँ है, सभी को अपने काम खुद करने होते हैं। जिन्हें बर्तन धोना और सफाई करना पसंद न हो उन्हें यहाँ नहीँ आना चाहिए। </p>"
+        }
       },
       {
-        "ques": "What are you supposed to bring?",
-        "ans": "Sometimes you have to walk 1 km to reach the Sehatvan, so you should bring as less things as possible, which you can carry on your own. Some things that need to be brought - bed sheets (2), blankets / sleeping bags (in winter), flashlight, umbrella, two pairs of clothes that you can work without fear of getting dirty. Apart from this, you should also bring your medical reports and medicines together."
-      }
-      
-    ]
-  },
-  {
-    "tab": "partnership",
-    "name": "Mobilise Students",
-    "set": [
-      {
-        "show": "show",
-        "ques": "HOW CAN AN ORGANISATION CONDUCT AN INFORMATION SESSION AND TEST FOR THEIR COMMUNITY?",
-        "ans": "<div> <ol> <li style=' margin-top: 5px; '><b> Mobilize people</b> to attend the information session using your on-going communications activities. You can use the posters and Whatsapp/phone messages sent by Navgurukul.</li> <li style=' margin-top: 5px; '><b> Go through this information package</b> and our youtube channel to understand fully about the program. If you have any additional questions, write to us on <i>s@navgurukul.org</i> or Whatsapp us at 9870326110. </li> <li style=' margin-top: 5px; '><b> Talk about our program, show our students’ videos on youtube</b> to help the attendees of your information session. If critical, we can also arrange a video session with one of our students or team members during the workshop.</li> <li style=' margin-top: 5px; '><b> We will send you sets of question papera and instructions for conducting the test.</b> The test is one and a half hour long. Once the test is over, the person in charge will have to email us pictures of the answer sheets. We will follow-up with the people who clear the written test for a telephonic interview.</li> </ol> </div>"
+        "ques": {
+          "en": "What are you supposed to bring?",
+          "hi": "क्या-क्या समान लेकर आना चाहिए हैं?"
+        },
+        "ans": {
+          "en": "Sometimes you have to walk 1 km to reach the Sehatvan, so you should bring as less things as possible, which you can carry on your own. Some things that need to be brought - bed sheets (2), blankets / sleeping bags (in winter), flashlight, umbrella, two pairs of clothes that you can work without fear of getting dirty. Apart from this, you should also bring your medical reports and medicines together.",
+          "hi": "सेहतवन पहुँचने के लिए कभी कभी 1 km पैदल चलना पड़ जाता है इसलिए आपका समान इतना कम होना चाहिए जो आप खुद उठाकर 1 km चल सकें। कुछ चीजें जो लाना जरूरी हैं – बेड शीट्स (2), कंबल/ स्लीपिंग बैग (सर्दियों में), टॉर्च, छाता, दो जोड़ी ऐसे कपड़े जिनमें आप काम कर सकें और जिनके गंदे होने या फटने का आपको डर न हो। इसके अलावा आपको अपनी मेडिकल रिपोर्ट्स और दवाइयों भी साथ लनी चाहिए।"
+        }
       },
       {
-        "ques": "HOW DOES A PARTNERSHIP WITH NAVGURUKUL LOOK LIKE?",
-        "ans": "We have many NGOs as our impact partners. We need their valuable efforts and time to reach out to the most vulnerable groups who could use this program for their benefit. The expenses for mobilization can be discussed and negotiated. The partnership begins with collaborating with NGOs to maximize outreach to their communities. Once the students are selected through the admission tests (either conducted by the organisation or given individually on phones), we provide regular updates to our partners about the students’ growth. This helps the organisations notonly keep in touch with their community members who came to Navgurukul but also help others in the community to connect with his/her journey. We keep in touch with our partners to understand their needs and expectations from us during a student’s journey. Many partners also take workshops on various issues with our Navgurukul students such as theatre, gender sensitization, time management, etc. If you are interested in working with us in that regard, please reach out to us at <i>s@navgurukul.org</i> "
-      }
-    ]
-  },
-  {
-    "tab": "job",
-    "name": "Jobs",
-    "set": [
-      {
-        "show": "show",
-        "ques": "HOW DO STUDENTS GET JOBS?",
-        "ans": "We have an in-house Training and Placement coordinator and team. The team is in-charge to provide students essential soft skills such as communication, interview preparation, resume building etc. Each student is helped through internal interview preparation before appearing for an interview outside.The Training and Placement coordinator also gets each student interviews opportunities and offers help through-out the whole process."
+        "ques": {
+          "en": "What not to bring?",
+          "hi": "सेहतवन में क्या नहीं लाना हैं?"
+        },
+        "ans": {
+          "en": "Sehatvan is a very simple and eco-friendly place, do not bring following items: <ol> <li>Costly Jewelery and electronics</li> <li>Plastic bags and disposables, Packaged food</li> <li>Chemical based soaps, shampoo, tooth paste, etc. </li> <li>Any kind of intoxication or smoking goods</li> </ol>",
+          "hi": "सेहतवन बहुत ही सादगीपूर्ण और पर्यावरण-मित्र जगह है, यहाँ निम्न समान लाने की मनाही है: <ol> <li>महंगी ज्वेलरी और एलेट्रोनिक उपकरण</li> <li>प्लास्टिक की पन्नियाँ और डिस्पोजीबल समान</li> <li>पैकेज्ड फूड </li> <li>किसी भी तरह के नशे या धूम्रपान का सामान</li> <li>केमिकल्स आधारित साबुन, शैम्पू, टूथ-पेस्ट आदि प्रसाधन सामाग्री </li> </ol>"
+        }
       },
       {
-        "ques": "WHAT KIND OF JOBS DO STUDENTS GET?",
-        "ans": "A student becomes a software developer and gets standard pay job(25,000-50,000). Some of our students working in big corporations such as MindTree, Directi, ThoughtWorks and some with reputed startups like Mahtti, Gamingmonk, Codeyug, Safal Solutions, BSD Technologies, FTwo, Repup, WhiteHat, Momspresso etc. Some of our students have also decided to work as freelancers i.e. taking coding assignments across the country/world and work at their own convenience. These are high-growth jobs in which students can keep progressing professionally with the help of their ability to pick up more technologies and projects"
-      }
-    ]
-  },
-  {
-    "tab": "success",
-    "name": "Success Cases",
-    "set": [
+        "ques": {
+          "en": "Public transport to reach Sehatvan?",
+          "hi": "सेहतवन पहुँचने के लिए पब्लिक ट्रांसपोर्ट ?"
+        },
+        "ans": {
+          "en": "<p>From Bhopal Railway Station - Arrive to Nadra Bus Stand (300 m). Take the Vidisha going bus and get own at Sukhi Sewaniyan village.</p><p> Take a sharing auto from Sukhi sewaniyan bus stop to Amoni Village. Get down at the downhill/ghaati, as the auto wala that you want to go to aamkhoh.</p>",
+          "hi": "भोपाल रेल्वे स्टेशन से – नादरा बस स्टेंड तक आयें(300m)। किसी भी विदिशा जाने वाली बस में बैठें और सूखी सेवानियां गाँव में उतरें। सूखी बस स्टैंड से आमोनी जाने वाले सवारी ऑटो में बैठें और घाटी के पास उतार जाएँ, ऑटो वाले से बोलें आपको आम खोह के पास जाना है।"
+        }
+      },
       {
-        "show": "show",
-        "ques": "ANY SUCCESS CASES",
-        "ans": "Around 90 students have gotten jobs in companies and startups as software developers. We also have some students who chose to become digital literacy trainers in NGOs. Some of our students started their own freelancing unit.<br/> You can read about some of our alumni profiles here: ​ <a href = https://navgurukul.org/alumni.html> Please visit </a>"
+        "ques": {
+          "en": "What is the refund policy?",
+          "hi": "रिफ़ंड पॉलिसी क्या है?"
+        },
+        "ans": {
+          "en": "<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the space.",
+          "hi": "<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. हम छोटे ग्रुप में लोगों के साथ काम करते हैं और इसलिए प्रतिभागियों का कैन्सल करना सेहतवन के निर्वाह को प्रभावित करता है।"
+        }
+      },
+      {
+        "ques": {
+          "en": "Can we bring kids? What is the contribution amount for kids?",
+          "hi": "क्या हम बच्चों को ला सकते हैं? उनकी राशि क्या होगी?"
+        },
+        "ans": {
+          "en": "<p>Usually, kids enjoy being at Sehatvan and learn a lot with Nature. But sometimes they miss urban facilities and snacks. </p> <p> The contribution amount for kids under 10 years is 50% of the amount for adults. For Teenagers, see our Teenage Health Module <br> <br> Please note it takes extra effort to make the space child-friendly and they require much more 'entertaining' than adults. Milk is not part of our pantry, you can arrange it from nearby village (1km). You can cook food of their choice when kitchen is free. Market snacks are not allowed. </p>",
+          "hi": "<p> आमतौर पर, बच्चे सेहतवन में रहने का आनंद लेते हैं और प्रकृति के साथ बहुत कुछ सीखते हैं। लेकिन अगर वे शहरी सुविधाओं और बाजारू स्नैक्स की आदतन हैं तो उन्हें सेहतवन में एडस्ट होने में मुश्किल हो सकती है। </p> <p> 10 वर्ष से कम उम्र के बच्चों के लिए योगदान राशि वयस्कों के लिए राशि का 50% है। किशोरों के लिए <a href=\"../fitness.html\">Teenage Health Module</a> कृपया ध्यान दें कि सेहतवन को बाल-सुलभ बनाने के लिए अतिरिक्त प्रयास लगता है। यहाँ के खाने में दूध शामिल नहीं है, अगर आप चाहें तो पास के गाँव जाकर ल सकते हैं (1 किमी)। जब किचन फ्री हो तो आप उनके मन पसंद खाना बना सकते हैं और सामान ल सकते हैं। हालांकि बाजारू स्नैक्स मना है। </p>"
+        }
+      },
+      {
+        "ques": {
+          "en": "Are there animals?",
+          "hi": "Are there animals?"
+        },
+        "ans": {
+          "en": "<p>We have a cat - Tendu. There are squirrels, lizards, insects and birds in vicinity. Snakes and scorpions are also present but they stay away from human areas and we provide training to keep yourself safe. Our dogs and cat keep insects and reptiles away from stay areas. </p> <p> Animals are important part of maintaining the biodiversity at Sehatvan. They also control excess of any insects like mosquitos. We only have mosquitos for a total of 30-40 days a year, and they disappear in a few days.",
+          "hi": "<p>We have a cat - Tendu. There are squirrels, lizards, insects and birds in vicinity. Snakes and scorpions are also present but they stay away from human areas and we provide training to keep yourself safe. Our dogs and cat keep insects and reptiles away from stay areas. </p> <p> Animals are important part of maintaining the biodiversity at Sehatvan. They also control excess of any insects like mosquitos. We only have mosquitos for a total of 30-40 days a year, and they disappear in a few days."
+        }
       }
     ]
   }
