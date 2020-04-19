@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Sehatvan</title>
+  <link rel="stylesheet" href="assets/css/app.css" />
+
+  <meta name="author" content="" />
+  <meta property="og:title" content="Sehatvan" />
+  <meta property="og:url" content="http://sehatvan.in" />
+  <meta property="og:image" content="assets/img/s/logo.png" />
+  <meta property="og:description" content="NavGurukul is a non-profit initiative to provide a meaningful alternative to the college education. We train youth from humble backgrounds for free in software programming and other aspirational opportunities."
+  />
+  <meta name="description" content="NavGurukul is a non-profit initiative to provide meaningful alternative to college education. We train youth from humble backgrounds for free in software programming and other aspirational opportunities." />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet"> 
+  <link rel="icon" href="assets/img/s/logo.png" />
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+  <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="/assets/css/app.css">
+  <link rel="stylesheet" href="/assets/css/faq.css">
+  <!-- endinject -->
+</head>
+
+<body>
+   <nav id="mainNav" class="navbar navbar-expand-md navbar-default fixed-top navbar-light">
+  <div class="container">
+    <a class="navbar-brand" href="index.html#page-top"><img src="assets/img/s/logo.png" alt="logoNavGurukul" class="logoheader"></a>
+    <div class="nav-item dropdown btn-lang">
+      <a class="nav-link dropdown-toggle text-primary" id="selected_option" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+      <div class="dropdown-menu" aria-labelledby="dropdown09">
+        <a class="dropdown-item" id="other_option" onclick="changeLang()"></a>
+      </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    <div class="collapse navbar-collapse p-4 p-md-0" id="navbarCollapse">
+      <ul class="navbar-nav mr-auto"></ul>
+      <ul class="navbar-nav nav">
+        <li class="nav-item">
+          <a class="nav-link" href="therapy.html">THERAPY MODULES
+                        <span class="sr-only">(current)</span>
+                    </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="fitness.html">FITNESS MODULES
+                        <span class="sr-only">(current)</span>
+                    </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="faq.html">FAQ
+                        <span class="sr-only">(current)</span>
+                    </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="book.html">BOOK NOW
+                        <span class="sr-only">(current)</span>
+                    </a>
+        </li>
+        	
+        
+        <!-- <li class="nav-item">
+                    <a target="_blank"  class="nav-link" rel="nofollow" href="https://angel.co/navgurukul-foundation/jobs">JOIN US
+                    </a>
+                </li> -->
+      </ul>
+      <!-- <form class="form-inline mt-2 mt-md-0">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form> -->
+    </div>
+  </div>
+</nav>
+ 
+  <main role="main" class="minHeight px-5">
+    <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
+      <div class="">
+        <h2 class="mb-3 text-dark text-center ">Forest Therapy Modules</h2>
+        <div class="">
+          <div class="row">
+            <div class="col-lg-3">
+              <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
+                <a href="#dto" class="nav-link text-primary" data-toggle="pill" role="tab"
+                  aria-controls="dto" aria-selected="false">
+                  <span>Diabetes Thyroid Obesity</span>
+                </a>
+                <a href="#heart" class="nav-link text-primary" data-toggle="pill" role="tab"
+                  aria-controls="heart" aria-selected="false">
+                  <span>Cardiovascular Health</span>
+                </a>
+                <a href="#autoimmune" class="nav-link text-primary" data-toggle="pill" role="tab"
+                  aria-controls="autoimmune" aria-selected="false">
+                  <span>Auto-immune Health</span>
+                </a>
+                <a href="#women" class="nav-link text-primary" data-toggle="pill" role="tab"
+                  aria-controls="women" aria-selected="false">
+                  <span>PCOD & Women's Health</span>
+                </a>
+                <a href="#multiple" class="nav-link text-primary" data-toggle="pill" role="tab"
+                  aria-controls="multiple" aria-selected="false">
+                  <span>Multiple Issues</span>
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 mb-3 ">
+              <div class="tab-content border" id="faq-tab-content">
+                <div class="tab-pane  show active" id="dto" role="tabpanel"
+                  aria-labelledby="dto">
+                  <div class="accordion" id="dto">
+                    <h3 class="mt-4 text-dark text-center text-capitalize"><span>Diabetes Thyroid Obesity</span></h3>
+                    <hr>
+                    <div class="mx-3">
+                    <p>Recommended Duration: <br> 
+                    A) At Sehatvan(Forest Protocol): <br> <strong>10 to 20 days </strong> <br>
+                    + <br>
+                    B)Home Protocol: <strong>3 to 4 weeks</strong> <br>
+                    (1 to 2 followup visits/calls)
+                  
+                    </p>
+                    <p>
+                      Fee Contribution:<br>
+    
+    							Indian Participants: <br> <strong>INR 20,000</strong> <br>
+    							International Participants: <br><strong>USD 350</strong> <br> <br>
+    							<u>Refund Policy:</u> <br>
+    							
+    							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
+    							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+    
+                    </p>
+                  </div>
+                    <div class="card ">
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#cee5359d81719d80ff248d2d5837a2d34"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            1: <span>What is T2 Diabetes, Thyroidism and Obesity?</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse show" id="cee5359d81719d80ff248d2d5837a2d34" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span><strong>T2 Diabetes, Thyroidism and Obesity</strong> are highly interlinked diseases involving lifestyle connected endocrine malfunctioning caused by sedentary living, high mental indulgences, high carbohydrate and low fat diet, and epigenetic imbalances. <strong>Thyroidism</strong> has a connection with iodine too; earlier most hypothyroidism cases occurred due to iodine deficiency and now most are being caused by <strong>iodine excess</strong>. <br> <img src="../assets/img/s/dto1.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> <br> Lifestyle factors leading to obesity often cause <strong>insulin-resistance</strong>, which leads to over production of insulin or hyper-insulinemia, which then further enhances obesity; and hence, a person suffering from obesity is often trapped in this cycle of insulin-resistance and <strong>hyper-insulinemia</strong>. In most cases this also precipitates in the form of glucose intolerance or <strong>T2 Diabetes</strong>. In small number of people lifestyle factors and epigenetic imbalance cause T2 Diabetes <strong>without involving obesity</strong>.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c357fbf952a98970192f429d6c32a545c"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            2: <span>Past Experience</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c357fbf952a98970192f429d6c32a545c" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span>At Sehatvan we have almost always been <strong>successful</strong> in helping people come out of the DTO trap and live a medicine-free healthy life.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c52e8822f4771f1bb5208fa7d8c2c68ca"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            3: <span>Therapeutic Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c52e8822f4771f1bb5208fa7d8c2c68ca" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span>Protocol developed at Sehatvan involves a <strong>10-20 days</strong> long forest component and <strong>3-4 weeks </strong>long supplementary home component.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#cce00eaca293839548aabf3da029b3707"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            4: <span>Forest Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="cce00eaca293839548aabf3da029b3707" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span>Forest Protocol is comprised of 3 steps: <ol> <li> <strong>Epigenetic balancing (5 days):</strong> Our body’s structure and functionality is encoded in our genes or DNA. Over and above this encoding, there exists a switching mechanism which controls the expression of each gene. This switching machine is known as <strong>epigenome</strong> and is responsive to lifestyle factors and the environment we live in. This mechanism is hundreds or thousands or millions of years old and still tuned to the wild setting and living that existed for most part of human history excepting the past few decades of rapid modernization. Hence, going back to the wild and hunter gatherer kind of living quickly reboots the epigenome and fine tunes our genetic expressions. At Sehatvan this is achieved by: <ul> <li>Avoiding all <strong>mental stimulations</strong> and indulgences including Tea/ Coffee, Newspapaer, Phone, Books, Music, Non-essential conversations, Yoga & Meditation </li> <li> Soaking in with Sun, Soil and Space in a wild setting and doing a lot of hard physical labor </li> </ul> </li> <li> <strong>Autophagic Cleansing and Rejuvenation (5-10 days):</strong> Authophagy is a surprising biological tool that can lead to super cleansing of body and mind followed by their rejuvenation. Since this involves <strong>detox</strong>, persons may experience vivid symptoms ranging from fever to diarrhea or vomiting to skin rashes depending upon the toxicities stored in them, and hence, autophagy should <strong>never be attempted in a city</strong> like toxic or non-supportive environment. This should be treated as a major intervention in one’s life and taken only in a pristine and supportive environment. At Sehatvan we recommend water only fasting and mild physical labor during this phase. </li> <li> <strong>Re-strengthening (5 days):</strong> Rushing back to the food and toxic environment immediately after the autophagy phase is a horrible idea. It should be stepped-in in a <strong>gradual</strong> manner; and hence, one must spend a few more days in a supportive and a pristine environment before moving back to the city. This is a called re-strengthening phase, and under this people return back to a healthy diet in a gradual manner. Also, physical activities are enhanced from mild to moderate to make-up for any muscle loss. </li> </ol></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c6c8fc5d98d158637f9f95af790578411"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            5: <span>Home Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c6c8fc5d98d158637f9f95af790578411" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span>Ultimately people got to live in cities as neither forest can afford internalizing many people, nor most people can afford living in a forest; hence, how-so-ever toxic they may be, cities are the realities. Following a non-sedentary, low-toxicity lifestyle for next <strong>3-4 weeks</strong> further boosts the reversal of DTO.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4139bfc75632c30859bbc5273b37b8d9"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            6: <span>Daily/Hourly Protocols</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4139bfc75632c30859bbc5273b37b8d9" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span>Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href="mailto:sehatvan@gmail.com">sehatvan@gmail.com</a> to receive.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4c1e23671fc11d06a192b34143afc5ed"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            7: <span>PRECAUTION</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4c1e23671fc11d06a192b34143afc5ed" data-parent="#dto">
+                        <div class="card-body">
+                          <p> <span>The protocol should be undertaken <strong>only under medical supervision</strong> as people under medication require continuous dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase.</span></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane  " id="heart" role="tabpanel"
+                  aria-labelledby="heart">
+                  <div class="accordion" id="heart">
+                    <h3 class="mt-4 text-dark text-center text-capitalize"><span>Cardiovascular Health</span></h3>
+                    <hr>
+                    <div class="mx-3">
+                    <p>Recommended Duration: <br> 
+                    A) At Sehatvan(Forest Protocol): <br> <strong>10 to 20 days </strong> <br>
+                    + <br>
+                    B)Home Protocol: <strong>3 to 4 weeks</strong> <br>
+                    (1 to 2 followup visits/calls)
+                  
+                    </p>
+                    <p>
+                      Fee Contribution:<br>
+    
+    							Indian Participants: <br> <strong>INR 20,000</strong> <br>
+    							International Participants: <br><strong>USD 350</strong> <br> <br>
+    							<u>Refund Policy:</u> <br>
+    							
+    							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
+    							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+    
+                    </p>
+                  </div>
+                    <div class="card ">
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c2f9271046c4016ee82db5365242ad74d"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            1: <span>What are Cardiovascular Diseases?</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse show" id="c2f9271046c4016ee82db5365242ad74d" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span><strong>Cardiovascular Diseases (CVD)</strong> are <strong>number one</strong> cause of human death; around 32% people die this way globally. In earlier times this used to be mainly the disease of cold countries, and of elderly and rich people, now it’s affecting to almost everyone, and in younger times. <br> <br> Three main elements of CVD are - <strong>sticky blood, vascular rigidity and arterial clogging.</strong> <br> Blood, mainly because of improper hydration or consumption of diuretics like tea or coffee and because of aging, becomes thick and stick and faces resistance in circulation. <br><br> Nature has designed our blood vessels being flexible in nature so that they could maintain appropriate blood pressure despite of fluctuating blood demands. If pressure drops below a certain level then blood fail to reach to extremities, and if it shoots up too much then it leads of leakage or hemorrhage. <strong>Vascular rigidity</strong> is an outcome of aging process and some people can age much faster than others. <br> <br> <img src="../assets/img/s/heart1.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> The third and most talked issue is arterial clogging or <strong>coronary blockades</strong>. Because of <strong>plaque </strong>formation our arteries get clogged, here also aging plays a role but there are other factors too that can cause the vessels becoming clogged even in younger age. Arterial clogging is also known as <strong>atherosclerosis </strong> and inflammatory factors play a pivotal role. The plaque could be comprised of cholesterol, fat, calcium and other stuff. <br><br> <strong>Stenting and bye-pass</strong> and open heart surgeries are currently quite popular as an immediate solution; however, these have <strong>huge limitations</strong> - not only in terms of the risks and cost involved, but also because of the outcome. Many studies have revealed that plaque removing cardiac surgeries are of only of placebo value, the reasons being – 1)<strong> clogging is not as localized as is perceived</strong>, and 2) most stents, being foreign to the body, further attract and accelerate the instances of clogging. People having clogging tendencies will have clogs all around their vasculature (of varying magnitude) and not only in one or two of the arteries and loci. <strong>Atherosclerosis in brain leads to stroke and in kidneys the kidney damage. </strong>Henceforth, stenting and related procedure are of only little and temporary value. The effective way is cleansing the whole cardiovascular system. <br><br> <img src="../assets/img/s/heart2.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> One more thing that human beings are hugely missing is the <strong>role of sunshine</strong> in health. Life on earth has a vital connection with the sun and all organisms have multitude relationships with it. Besides many other things, sun exposure (on skin) converts cholesterol to vitamin D, and it is because of our dissociation with the sun that most humans have become excessive in cholesterol and deficient in vitamin D. <strong>Hypercholesterolemia</strong> is a factor for plaque formation so is the vitamin D insufficiency. In the situation of vitamin D insufficiency, <strong>calcium </strong>starts moving from bones to causing the calcification of the vessels, the second biggest cause of clogging. <img src="../assets/img/s/heart3.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c52e8822f4771f1bb5208fa7d8c2c68ca"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            2: <span>Therapeutic Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c52e8822f4771f1bb5208fa7d8c2c68ca" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span>Protocol developed at Sehatvan for cardiovascular health has five steps: 1 pre-forest, 3 in-forest and 1 post-forest.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c2f0fcb0aa12d498cec7df81e206c6b0b"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            3: <span>Pre-Forest Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c2f0fcb0aa12d498cec7df81e206c6b0b" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span>Blood donation is an excellent and instant approach to improving cardiovascular health. In fact, we have been designed to have been losing blood occasional, but now-a-days men and menopaused women do not lose blood that frequently. When one loses blood, there is formation of new and better blood, and thereby blood donation or bloodletting helps improvise blood quality. <br><br> Those who are not anemic should actually regularly donate blood a couple of time every year to boost their cardiovascular health. People coming to Sehatvan cardiovascular health are advised to donate blood before coming here. <img src="../assets/img/s/heart4.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#cce00eaca293839548aabf3da029b3707"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            4: <span>Forest Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="cce00eaca293839548aabf3da029b3707" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span>Sehatvan protocol is comprised of 3 steps: <ol> <li> <strong>Sun, Sweat & Cardiac for (5 days):</strong> Sun, Sweat & Cardiac (SSC) has tremendous potential to improvise cardiovascular health. Exposure to sun helps convert excess cholesterol into vitamin D, and thereby, it directly reduces the propensity of plaque formation. Apart from this, it lifts the mood and offers psychological advantage too. Sweat helps <strong>eliminate excessive salts</strong>, actually those who aren’t sweating shouldn’t consume salt. Removal of excess salt brings the blood pressure of hypertensive people down. <br> Cardiac workout i.e. strenuous physical activity like watering the plants with bucket or digging strengthens the cardiac muscles. However, people should be cautious with the extent of intensity and it should be increased slowly. Adequate hydration is also essential during the whole SSC regime. </li> <li> <strong>Autophagic cleansing and rejuvenation (5-10 days):</strong> In autophagy mode body starts eating its own all extra, toxic or nonessential things, and plaques are completely non-essentials; hence, authophagy is likely to lead to disappearance of plaques from whole body and for forever. Autophagy also has rejuvenative power and leads to formation of new blood and new blood vessels wherever required. <br>Since autophagy involves detox, persons may experience vivid symptoms ranging from fever to diarrhea or vomiting to skin rashes depending upon the toxicities stored in them; and hence, autophagy should never be attempted in a city like toxic or non-supportive environment. <br><br>This should be treated as a major intervention in one’s life and taken only in a pristine and supportive environment. At Sehatvan we recommend water only fasting with moderate SSC for cardiovascular health. </li> <li> <strong>Re-strengthening (5 days):</strong> Rushing back to the food and toxic environment immediately after the autophagy is a horrible idea. It should be stepped-in in a gradual manner; and hence, one must spend a few more days in supportive and pristine environment before moving back to the city. This is a called re-strengthening phase, and under this people return back to a healthy diet in a gradual manner. Also, physical labor is enhanced from mild to moderate to make-up for any muscle loss. </li> </ol></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c20ee7fe2f3b6e979284a4fbb733696d1"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            5: <span>Supplementary Home Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c20ee7fe2f3b6e979284a4fbb733696d1" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span>Ultimately people got to live in cities as neither forest can afford internalizing many people, nor most people can afford living in a forest; hence, howsoever toxic it may be, cities are the realities. Following a modest SSC lifestyle and healthy diet for next 3-4 weeks helps further <strong>boost</strong> the cardiovascular health.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4139bfc75632c30859bbc5273b37b8d9"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            6: <span>Daily/Hourly Protocols</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4139bfc75632c30859bbc5273b37b8d9" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span>Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href="mailto:sehatvan@gmail.com">sehatvan@gmail.com</a> to receive.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4c1e23671fc11d06a192b34143afc5ed"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            7: <span>PRECAUTION</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4c1e23671fc11d06a192b34143afc5ed" data-parent="#heart">
+                        <div class="card-body">
+                          <p> <span>The protocol should be undertaken only under medical supervision as people under medication require continuous dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase. Since Sehatvan is not a medical institution, we recommend people coming here keeping in touch with their doctor.</span></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane  " id="autoimmune" role="tabpanel"
+                  aria-labelledby="autoimmune">
+                  <div class="accordion" id="autoimmune">
+                    <h3 class="mt-4 text-dark text-center text-capitalize"><span>Auto-immune Health</span></h3>
+                    <hr>
+                    <div class="mx-3">
+                    <p>Recommended Duration: <br> 
+                    A) At Sehatvan(Forest Protocol): <br> <strong>15 to 20 days </strong> <br>
+                    + <br>
+                    B)Home Protocol: <strong>3 to 4 weeks</strong> <br>
+                    (1 to 2 followup visits/calls)
+                  
+                    </p>
+                    <p>
+                      Fee Contribution:<br>
+    
+    							Indian Participants: <br> <strong>INR 20,000</strong> <br>
+    							International Participants: <br><strong>USD 350</strong> <br> <br>
+    							<u>Refund Policy:</u> <br>
+    							
+    							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
+    							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+    
+                    </p>
+                  </div>
+                    <div class="card ">
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c50814e4f25220a1c827f0221c30fc7f6"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            1: <span>What are Auto-immune Issues?</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse show" id="c50814e4f25220a1c827f0221c30fc7f6" data-parent="#autoimmune">
+                        <div class="card-body">
+                          <p> <span><strong>Immune system</strong> is our body’s defense mechanism and its role is to take care of external and internal threats; thereby, it is designed and trained to handle invading pathogens at one hand, and hostile body cells (like cancer) at the other. Persons with <strong>weak immunity</strong> are prone to having infections, those with <strong>hyper-immunity</strong> having sensitivities; and therefore, a proper balancing and modulation is needed. <br> <br> Perhaps, this module of forest therapy deals with another dimension of the immune issue – autoimmune diseases. <strong>Autoimmune diseases</strong> are the situation when immune system starts attacking body’s own functional cells thereby either altogether destroying the organ or altering its growth and functionality. There are <strong>over 100</strong> autoimmune diseases existing, the most common among them are: Type 1 Diabetes, Lupus, Rheumatoid arthritis, Multiple sclerosis, Psoriasis, Eczema, Vitiligo, Thyroidism, Ulcerative colitis, Alopecia areata etc. Allergy and Asthmas also have autoimmune connection. In a nutshell autoimmune diseases are <strong>like your own security guard attacking you.</strong> <br> <img src="../assets/img/s/ai1.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> Considering the basics of the immunity first: immune system functions through mainly two tools – <strong>immune cells</strong>, such as T cells and natural killer cells, and a range of <strong>antigen specific antibodies</strong>. The task of immune system could primarily be divided in two parts – 1) surveillance, and 2) regulation. <strong>Surveillance</strong> is quite a challenging task whereby T cells check each and every cell (also cell components and products) in the body for its nationality and loyalty/goodness, anything foreign or having turned unfaithful is alerted for and handled accordingly. Autoimmune diseases mainly occur due to some problem in this surveillance – either the surveying cells having become <strong>mis-educated </strong>or the surveyed ones having altered in some way to look suspicious or harmful. Current approach to handle the situation is by <strong>administering immunosuppressive agents</strong> so that the whole immune system is kind of blinded or cornered. However, this cannot be the solutions, and it is for this reason why all autoimmune diseases are <strong>medically incurable</strong>. <br> <img src="../assets/img/s/ai2.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> <br> In this module we attempt to 1) <strong>reverse the alterations</strong> in host cells and, 2) reeducate, <strong>reboot</strong> or modulate the immune system. The alteration in the host is usually caused by bound medicines, chemicals, undesired metabolites or toxins and autophagic detox is a great way to getting rid of most of these alterations, and thereby, returning back to the pristine self. Autophagy also reboots and reeducates the immune system. Prior to autophagy a five days <strong>epigenetic balancing</strong> protocol helps in regulating the gene switching. Self-hatred and depression are also known to have linkage with autoimmunity, because when this - destroying to one self – keeps going in the mind for too long, the immunity starts obeying the signal. <br><br> There is one more dimension to this, and that perhaps could be the <strong>most important cause</strong> of autoimmune issues – we are a bit too sanitized and our immune system doesn’t have enough engagement outside; hence, it turns more to inside, like army of a country having no external threat. Enhancing the external threat a little bit by enriching the microbiota, by cutting down on sanitization, and once in a while having minor injuries, bruises is likely to make the whole immune system more extrovert, and thereby, reduce its hyper inside focus. Tense borders boost national loyalty. Also, <strong>our microbiota is like our closest or internal forests</strong> and a rich forest has a balanced ecosystem. <br> <img src="../assets/img/s/ai3.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c52e8822f4771f1bb5208fa7d8c2c68ca"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            2: <span>Therapeutic Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c52e8822f4771f1bb5208fa7d8c2c68ca" data-parent="#autoimmune">
+                        <div class="card-body">
+                          <p> <span>The protocol has 3 in-forest and 1 post-forest stages. It begins with acclimatization and epigenetic balancing and then moves to autophagic cleansing and immunity rebooting, followed by microbiota enhancing steps. <ol> <li> <strong>Acclimatization and Epigenetic Balancing (5 days):</strong> <br> Forest stay helps fine-tunes gene switching, and once gene-switching is fine-tuned most cell functions and antibody production become remarkably error-free. During this stage we also like people enhancing their connection with the nature; sanitization dramatically reduces our nature connection and most of us are actually over-sanitized. In this phase its recommended getting loose on hygiene – getting dirty, avoiding bathing, putting on unwashed clothes, and above all – not using any cleansing agent like soap, shampoo, hand wash etc. Lot of hard physical labor and sun exposure help reduce, self-hatred, if any. Cow-dung and mud are great antidepressant as well as probiotic. </li> <li> <strong>Autophagic cleansing and rejuvenation (5-10 days):</strong> <br> Water only fast for 5 or more days dramatically cleanses body by detoxing. In this phase virtually all the build-up of the bound medicines, bound chemicals, undesired metabolites and toxins is cleared away, thereby body becoming pure and clean, and hence, autoimmunity is reduced. Longer fasts are rejuvenative in nature and lead to rebooting the immunity and formation of new stem cells. This way the immune system also gets optimized from within. However, in autophagy mode people carrying large toxicities may feel varied uncomfortable detox symptoms, and hence, this step should be taken-up under a supportive and pristine environment only. Medical supervision is compulsory for people on medication. </li> <li> <strong>Microbiota Building (5 days): </strong> <br> Strong microbiota is the strongest and the most lasting protection against all diseases in general and autoimmune diseases in particular. After gradual eating restoration body is actively exposed so as to enrich its microbiota on the skin as well as inside the intestine. This is achieved by using fermented food, drinking raw water and keeping sanitation to bare minimum. </li> <img src="../assets/img/s/ai4.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> </ol></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c20ee7fe2f3b6e979284a4fbb733696d1"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            3: <span>Supplementary Home Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c20ee7fe2f3b6e979284a4fbb733696d1" data-parent="#autoimmune">
+                        <div class="card-body">
+                          <p> <span>Subsequent to the forest components participants are given a tailor made home protocol, which primarily aims at living a non-sedentary, low-sanitization, low-toxicity lifestyle with probiotic nutrition for 3 to 4 weeks. All kinds of packaged food and drinks must be avoided during this phase as package food contains preservatives that destroy the intestinal microbiota.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4139bfc75632c30859bbc5273b37b8d9"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            4: <span>Daily/Hourly Protocols</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4139bfc75632c30859bbc5273b37b8d9" data-parent="#autoimmune">
+                        <div class="card-body">
+                          <p> <span>Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href="mailto:sehatvan@gmail.com">sehatvan@gmail.com</a> to receive.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4c1e23671fc11d06a192b34143afc5ed"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            5: <span>PRECAUTION</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4c1e23671fc11d06a192b34143afc5ed" data-parent="#autoimmune">
+                        <div class="card-body">
+                          <p> <span>The protocol should be undertaken under medical supervision as people under medication may require dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase. Since Sehatvan is not a medical institution, we recommend people coming here keeping in touch with their doctor. The effectiveness of this protocol is not established in all autoimmune issue. Medical supervision is extremely must for people suffering from T1 Diabetes and on insulin.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ce646e16bee8b32e6ea29e30d01970a6c"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            6: <span>Limitations</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="ce646e16bee8b32e6ea29e30d01970a6c" data-parent="#autoimmune">
+                        <div class="card-body">
+                          <p> <span>This protocol hasn’t been tested for all autoimmune situations and might remain ineffective in some. Also, protocol’s multiple administration may require with some people.</span></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane  " id="women" role="tabpanel"
+                  aria-labelledby="women">
+                  <div class="accordion" id="women">
+                    <h3 class="mt-4 text-dark text-center text-capitalize"><span>PCOD & Women's Health</span></h3>
+                    <hr>
+                    <div class="mx-3">
+                    <p>Recommended Duration: <br> 
+                    A) At Sehatvan(Forest Protocol): <br> <strong>10 to 20 days </strong> <br>
+                    + <br>
+                    B)Home Protocol: <strong>3 to 4 weeks</strong> <br>
+                    (1 to 2 followup visits/calls)
+                  
+                    </p>
+                    <p>
+                      Fee Contribution:<br>
+    
+    							Indian Participants: <br> <strong>INR 20,000</strong> <br>
+    							International Participants: <br><strong>USD 350</strong> <br> <br>
+    							<u>Refund Policy:</u> <br>
+    							
+    							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
+    							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+    
+                    </p>
+                  </div>
+                    <div class="card ">
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#ca540d3534458ccd9ce869e559e2bfa9e"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            1: <span>What are Women's Health issues?</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse show" id="ca540d3534458ccd9ce869e559e2bfa9e" data-parent="#women">
+                        <div class="card-body">
+                          <p> <span>On average, <strong>women live 10 years more than men</strong>, and also, they suffer more. They suffer more because they are the custodian of life’s biggest process, <strong>the reproduction</strong>, where men’s role is only minor. They have more complex physiology and hormonal system. Also they are the victims of social dictum. Most women’s health issues are due to mismatch in the biological aspects and social aspects. Let’s first look at what are the major issues females suffer additionally compared to the male counterpart. For the expediency’s sake we can group these issues in 3 groups: <strong>1) Not much related with the reproduction</strong>, like Osteoporosis, Depression and Urinary Tract Infection, <strong>2) Directly linked to reproduction apparatus</strong>, like Menstrual, Uterine and Hormonal Issues e.g. PCOD which is affecting to a very large young population, and <strong>3) Breast Cancer.</strong> <br> <img src="../images/women1.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> First, the non-reproductive issues, <strong>Osteoporosis, Depression and Urinary Tract Infection</strong>. A major factor of these diseases is a social stigma that women should always be clad, from tip-to-toes, in things like burkha or ghoonghat. Most societies consider it indecent if women walk on the street in small clothes. Along with this, there is also, particularly in India, a deep yearning to look fair. These two factors have cut-off most women from sun exposure. The result is that over 80% of them are Vitamin D deficient. And Vitamin D deficiency, actually the <strong>sun deficiency</strong> (because Vitamin D available in sachet is not the replacement), is the basic cause of Osteoporosis and Depression. Urinary tract infection in some women could be linked to Diabetes. But in most, it is due to poor sanitization. Women’s groin area, and also of men, should not only have good ventilation, but it should also receive sunshine as well, as this is the place which has fluid discharges. UTI, if not diabetic, is because of this lack of ventilation and sun exposure. Because of its functionality, whereas this area needs extra ventilation, the human stupidity is this that we put this under extra covers. No other species is as foolish. <br> <img src="../images/women2.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;">Now coming to the diseases directly linked to reproductive apparatus i.e. <strong>Menstrual, Uterine and Hormonal Issues</strong>. These issues are much more complex and need some deeper digging. The two most important activities of life are nourishment and reproduction. It is what most species in nature do. They are mostly busy in food related activities or in reproduction, and in between take rest and roam around. Humans got involved in many many things and to create room for those things many taboos have been created. <br><br> Let’s try understanding <strong>the reproductive (and also maternal) apparatus</strong> – ovary, uterus, vagina, breasts, a symphony of hormones oozing from as high as the brain itself, and the major events – menstruation, mating, fertilization, conceiving, delivery and breastfeeding. With secondary growth girls start menstruating somewhere around 12-13 year of age. That is the sign that they are readying for the reproduction. Once reproductive apparatus is ready, ovum is released from the ovary to wait for fertilization in the uterus. If fertilization occurs zygote forms and embryo starts growing. And after around 9 months a baby is delivered through the birth canal. If no fertilization takes place in a couple of weeks the ovum is thrown out of the body along with uterus lining in the form of bloody menstrual discharge. And thereafter, the process keeps repeating for many years i.e. up to the age of 40 to 65, and then it is stopped, with the arrival of menopause. <br><br> On a side note, there is a lot of news related to menstruation these days. Film stars are making films on it. Industry and social voices related to sanitary pads are getting louder. There has never been so much noise about the menstruation. For most of the time, it remained women’s secret act, secret suffering. Not any more, women can now suffer publicly. Baby diapers were already polluting the planet. With the advent cheap non-disposable sanitary pads, a large segment of women have joined them<strong> on this pollution voyage</strong>. <br> <br> The pain increases with other physical complaints such as mental or physical issues. These affect the strength and length of the menstrual process. The monthly period is <strong>now seen as a cleansing</strong>: the body excretes blood and new blood cells are formed. In contrast to the past, women are more open and free about this process. The newly created openness to the topic has created a second movement that affects baby diapers: environmentally friendly alternatives in the form of washable sanitary towels, cups instead of tampons and a further developed form of underwear are available today. <br><br> <strong>Why in the past there wasn’t so much fuss about menstruation?</strong> And about the irregularity of it? And about PCOD? It’s not that women earlier were ignorant or lacked in awareness. Menstruation is actually not designed by nature for being so much. Women body isn’t a foolish design that it would shed so much blood every month. Does any other species do it so much? Think of cows, buffalos, cats? No, menstruation isn’t a regular act, it’s an abortion, a wastage, flushing, excretion and suffering, not something to be had every month. No lady enjoys having menstruation every month. Those are the difficult days. It’s because not-having brings other complication women aspire to have periods regularly. <br><br> Reproductive apparatus isn’t primarily designed to menstruate. It is <strong>designed to reproduce</strong>. Menstruation is a set-back and re-preparation. It’s like you invite someone over dinner, spend lot of time making the best food. But the person doesn’t turn up and you are left with no option but to throw away your meticulously prepared food. Such throwing away is a disappointment. But assume what – the person doesn’t turn up continuously for 10 or 20 or 100 times! And you keep doing the same thing every time – meticulously making it and painfully throwing it!! Think about the biological frustration, isn’t this irritating? And we expect everything remaining smooth. <br><br> Fertility peaks in twenties and women are <strong>biologically designed to deliver around 8 to 10 babies </strong>at an interval of around 3 years each. The cycle goes like this: mate and get pregnant, carry the pregnancy for 9 months with 0 menstruations, deliver the neonate and keep breastfeeding (no menstruation for another 4-12 months), then again have sex and go on. So there are periods of mating, menstruation, reproduction and breast feeding. In a nutshell women body is biologically designed to have only 40 to 50 menstruation periods in lifetime. Whereas, due to humans avoiding the child birth women end-up having 400 to 500 menstruation periods in lifetime. This huge 10 fold rise isn’t a matter of joke, biology has its limitation. And this change has happened in the last two generations. For millions of years, no contraceptives were available. Women were mostly pregnant or breastfeeding if not menopaused. Biology takes several hundred years to make a tiny evolutionary step. <br><br> <img src="../images/women3.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> <br><br> However, <strong>we don’t mean correcting this problem by having more pregnancies</strong>. Childbirth in itself is a health hazard and this planet can no more support any rise in the human population. The solution has to be found out in some other way. By diverting this energy to some other activity, may be in doing strenuous physical labor. Substituting one labor (pain) by another, the one more tolerable, sustainable and overall nourishing. If this apparatus cannot be used well then the remaining body should be kept in high fitness. <br><br> About the <strong>Breast Cancer</strong>, the breasts are primarily meant for breastfeeding. Low reproductive lifestyle especially delayed first pregnancy; use of oral contraceptives and excessive use of tight bra are the main reason of breast cancer apart from other carcinogenic factors like radiations (including the ones emitted by cell phones) and chemicals like mosquito repellants. Perhaps, the use of bra as a cancer-causing practice is controversial, but it is well established that not wearing it is certainly healthier. <img src="../images/women4.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c52e8822f4771f1bb5208fa7d8c2c68ca"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            2: <span>Therapeutic Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c52e8822f4771f1bb5208fa7d8c2c68ca" data-parent="#women">
+                        <div class="card-body">
+                          <p> <span>Forest therapy protocol for women’s health has 3 in-forest and 1 post-forest stages. It begins with epigenetic balancing and calming and then moves to autophagic deep cleansing and restoration, followed by re-feeding and re-strengthening.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#cce00eaca293839548aabf3da029b3707"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            3: <span>Forest Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="cce00eaca293839548aabf3da029b3707" data-parent="#women">
+                        <div class="card-body">
+                          <p> <span>Sehatvan protocol is comprised of 3 steps: <img src="../images/women5.png" alt="" class="rounded wow fadeInRight float-md-right mb-2 mx-1" style="max-width: 100%;"> <ol> <li> Epigenetic Balancing and Calming (5 days): Forest stay helps fine-tunes gene switching and once gene-switching is fine-tuned most hormonal balancing is restored. During this stage we also recommend sun bathing, mud and cow-dung contact as these have super calming effect and improve emotional state, which further helps restoration of hormonal imbalance. Cow dung and mud also have vitamin B12 producing bacteria and keeping sanitization low helps overall strengthen microbiota. Sun is also very effective against osteoporosis. In this phase mental indulgences and stimulations should be avoided, including the use of cell phone, reading a book, listening music etc. One should get indulged in a lot of physical activity. </li> <li> Autophagic Deep Cleansing and Restoration (5-10 days): Water only fast for 5 or more days dramatically cleanses body by detoxing. In this phase virtually all the build-up of the bound medicines, bound chemicals, undesired metabolites and toxins is cleared away; thereby, body becoming pure and clean. Longer fasts bring-in much deeper cleansing and have restorative and rejuvenative potential further bringing the hormones in balance. Autophagy induces biological age reversal; and hence, aging related issues are also reversed. Since cancer cells thrive on glucose, glucose depletion helps shrink breast cancer in early stages. However, during this phase people carrying large toxicities may feel varied uncomfortable detox symptoms, and hence, this step should be taken-up under a supportive and pristine environment only. Medical supervision is required for people on medication. </li> <li> Re-feeding and Re-strengthening (5 days): When autophagic fast extends a week or more digestive system virtually shuts down, this phase is designed to gradually restart the digestive system. Also, physical activities are gradually increased to make up for the muscle-loss, if any. </li> </ol></span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c20ee7fe2f3b6e979284a4fbb733696d1"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            4: <span>Supplementary Home Protocol</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c20ee7fe2f3b6e979284a4fbb733696d1" data-parent="#women">
+                        <div class="card-body">
+                          <p> <span>Subsequent to the forest components participants are given a tailor made home protocol, which primarily aims at living a non-sedentary, low-sanitization, low-toxicity lifestyle for 3 to 4 weeks. Participants are also encouraged to build communities around them to have better emotional health and also, where ever feasible or justified, to become reproductively active.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4139bfc75632c30859bbc5273b37b8d9"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            5: <span>Daily/Hourly Protocols</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4139bfc75632c30859bbc5273b37b8d9" data-parent="#women">
+                        <div class="card-body">
+                          <p> <span>Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href="mailto:sehatvan@gmail.com">sehatvan@gmail.com</a> to receive.</span></p>
+                        </div>
+                      </div>
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#c4c1e23671fc11d06a192b34143afc5ed"
+                            aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                            6: <span>PRECAUTION</span>
+                          </button>
+                        </h5>
+                      </div>
+                      <div class="collapse " id="c4c1e23671fc11d06a192b34143afc5ed" data-parent="#women">
+                        <div class="card-body">
+                          <p> <span>The protocol should be undertaken only under medical supervision as people under medication require continuous dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase. Since Sehatvan is not a medical institution, we recommend people coming here keeping in touch with their doctor.</span></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane  " id="multiple" role="tabpanel"
+                  aria-labelledby="multiple">
+                  <div class="accordion" id="multiple">
+                    <h3 class="mt-4 text-dark text-center text-capitalize"><span>Multiple Issues</span></h3>
+                    <hr>
+                    <div class="mx-3">
+                    <p>Recommended Duration: <br> 
+                    A) At Sehatvan(Forest Protocol): <br> <strong>2 to 4 weeks </strong> <br>
+                    + <br>
+                    B)Home Protocol: <strong>4 to 8 weeks</strong> <br>
+                    (1 to 2 followup visits/calls)
+                  
+                    </p>
+                    <p>
+                      Fee Contribution:<br>
+    
+    							Indian Participants: <br> <strong>INR 30,000</strong> <br>
+    							International Participants: <br><strong>USD 500</strong> <br> <br>
+    							<u>Refund Policy:</u> <br>
+    							
+    							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
+    							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+    
+                    </p>
+                  </div>
+                    <div class="card ">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+    </section>
+    
+  </main>
+  <div class="col-md-12 text-center py-2 bg-primary">
+    <span class="bottombrand wow flipInX">&copy; 2020 Sehatvan.in</span> <br>
+    <span>Built by <a class="text-warning" href="mailto:madhuranand@live.in">Madhur Anand</a> and <a class="text-warning" href="https://navgurukul.org">NavGurukul</a></span>
+</div>
+  <section class="footer pt-0 pb-2 ">
+      <div class="container mx-auto">
+                      <button type="button" onclick="location.href='book.html'" class="btn btn-success ">Book
+                  Now</button>
+              <button type="button" onclick="location.href='faq.html'" class="btn btn-info ml-2">Read
+                  FAQs</button>
+              <button type="button" onclick="location.href='tel:+918602525887'"
+                  class="btn btn-info ml-2 ">Call</button>           
+          
+      </div>
+  </section>
+      
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i["GoogleAnalyticsObject"] = r;
+      (i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments);
+      }), (i[r].l = 1 * new Date());
+      (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m);
+    })(window, document, "script", "https://www.google-analytics.com/analytics.js", "ga");
+    ga("create", "UA-107719135-1", "auto");
+    ga("send", "pageview");
+  </script>
+
+  <!-- Facebook Pixel Code -->
+	<!--script>
+		  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	    n.queue=[];t=b.createElement(e);t.async=!0;
+	    t.src=v;s=b.getElementsByTagName(e)[0];
+	    s.parentNode.insertBefore(t,s)}(window, document,'script',
+		      'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '831691363937316');
+  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+				       src="https://www.facebook.com/tr?id=831691363937316&ev=PageView&noscript=1"
+	   /></noscript-->
+	<!-- End Facebook Pixel Code -->
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+  <!-- inject:js -->
+  <script src="/assets/js/alumni-min.js"></script>
+  <script src="/assets/js/common-min.js"></script>
+  <script src="/assets/js/iframe-min.js"></script>
+  <script src="/assets/js/language-min.js"></script>
+  <script src="/assets/js/readmore-min.js"></script>
+  <script src="/assets/js/slick-min.js"></script>
+  <script src="/assets/js/video-deck-min.js"></script>
+  <!-- endinject -->
+</body>
+
+</html>
