@@ -8,6 +8,9 @@
     "followup": "NA",
     "indian": "INR 15,000",
     "foreign": "USD 350",
+    "video_id":"xrGHTOVNkUg",
+    "video_description":"Module Video",
+    "video2":"<div class=\"card col-md-6 p-2 mx-auto\" style=\"border: none;\"> <div style=\"position: relative;\"> <a data-fancybox href=\"https://www.youtube.com/watch?v=B15R59JImUc\" class=\"d-block\"> <img class=\"card-img-top img-fluid\" src=\"https://img.youtube.com/vi/B15R59JImUc/mqdefault.jpg\"> <img src=\"{{root}}assets/img/playicon.png\" class=\"playicon\" /> </a> </div> <div class=\"card-body\" style=\"background-color: #eee;\"> <p class=\"card-text\"> Vitaming B12 </p> </div> </div>",
     "set": [
       {
         "show": "show",
@@ -40,6 +43,8 @@
     "followup": "1 or 2",
     "indian": "INR 20,000",
     "foreign": "USD 350",
+    "video_id":"L3A9MncQY_w",
+    "video_description":"Module Video",
     "set": [
       {
         "show": "show",

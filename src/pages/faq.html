@@ -1,9 +1,9 @@
 <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
   <div class="container">
     <h2 class="mb-3 text-dark text-center ">Frequently Asked Questions</h2>
-    <div class="container">
+    
       <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-3 p-0">
           <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
             {{#each faqs2 as |category|}}
             <a href="#{{category.tab}}" class="nav-link text-primary" data-toggle="pill" role="tab"
@@ -13,7 +13,7 @@
             {{/each}}
           </div>
         </div>
-        <div class="col-lg-8 mb-3 ">
+        <div class="col-lg-8 mb-3 p-0 ">
           <div class="tab-content border" id="faq-tab-content">
             {{#each faqs2 as |category|}}
             <div class="tab-pane  {{category.display}}" id="{{category.tab}}" role="tabpanel"
