@@ -6,10 +6,7 @@
     "set": [
       {
         "show": "show",
-        "ques": {
-          "en":"What is Forest Therapy?",
-          "hi": "hg"
-        },
+        "ques": "What is Forest Therapy?",
         "ans": "This is a healing process based on strengthening & calming, cleansing and rejuvenating the body. It helps in rebooting the self-recovery system and also facilitates reversing of diseases."
       },
       {
