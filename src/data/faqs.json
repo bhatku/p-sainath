@@ -1,11 +1,15 @@
+
 [
   {
-    "tab": "about",
-    "display": "show active",
-    "name": "About Forest Therapy",
+    
+    
+    "name":{
+      "en": "About Forest Therapy",
+      "hi":"फॉरेस्ट थेरेपी के बारे में"
+    },
     "set": [
       {
-        "show": "show",
+        
         "ques": {
           "en": "What is Forest Therapy?",
           "hi": "फॉरेस्ट थेरेपी क्या है?"
@@ -78,11 +82,15 @@
     ]
   },
   {
-    "tab": "Admissions",
-    "name": "About Sehatvan",
+    
+    "name": {
+      "en": "About Sehatvan",
+      "hi": "सेहतवन के बारे में"
+
+    },
     "set": [
       {
-        "show": "show",
+        
         "ques": {
           "en": "Is this a medical institution?",
           "hi": "क्या सेहतवन मेडिकल संस्थान है?"
