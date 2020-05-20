@@ -38,9 +38,9 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "handlebars": "^4.7.3",
+    "js-md5": "^0.7.3",
     "panini": "^1.6.3",
-    "sass": "^1.24.1",
-    "js-md5": "^0.7.3"
+    "sass": "^1.24.1"
   },
   "dependencies": {
     "bootstrap": "^4.4.1"

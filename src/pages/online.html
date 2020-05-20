@@ -1,0 +1,88 @@
+<section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
+  <div class="container">
+    <h2 class="mb-3 text-dark text-center ">Sehatvan Online Module</h2>
+    <hr>
+    <p class="text-center"><em>6-week Personalised Fitness-At-Home</em></p>
+    
+      <div class="row">
+        <div class="col-lg-3 p-0">
+          <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
+            {{#each online as |category|}}
+            <a href="#{{md5 category.name}}" class="nav-link text-primary font-weight-bold" data-toggle="pill" role="tab"
+              aria-controls="{{md5 category.name}}" aria-selected="false">
+              {{#lang category.name}}{{/lang}}
+            </a>
+            {{/each}}
+          </div>
+        </div>
+        <div class="col-lg-8 mb-3 p-0 ">
+          <div class="tab-content" id="faq-tab-content">
+            {{#each online as |category|}}
+            <div class="tab-pane   {{#if_eq @index 0}}show active{{/if_eq}}" id="{{md5 category.name}}" role="tabpanel"
+              aria-labelledby="{{md5 category.name}}">
+              <div class="accordion" id="{{md5 category.name}}">
+                <h3 class="mt-4 text-dark text-center text-capitalize">{{#lang category.name}}{{/lang}}</h3>
+                <hr>
+               
+                <div class="mx-3">
+                 {{#if category.show}}
+                  <p>{{category.text1}} <br> <br>
+                  Duration: <strong>6 weeks</strong> <br>
+                  Language: <strong>English & Hindi</strong>
+                  </p>
+                  {{/if}}
+                
+                </div>
+                <div class="card ">
+                  {{#each category.set as |qna|}}
+                  <div class="card-header">
+                    <h5>
+                      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#{{md5 qna.ques}}"
+                        aria-expanded="false" aria-controls="accordion-tab-2-content-1">
+                        {{incremented @index }}: {{#lang qna.ques}} {{/lang}}
+                      </button>
+                    </h5>
+                  </div>
+                  <div class="collapse {{#if_eq @index 0}}show{{/if_eq}}" id="{{md5 qna.ques}}" data-parent="#{{md5 category.name}}">
+                    <div class="card-body">
+                      <p> {{#lang qna.ans}}{{/lang}}</p>
+                    </div>
+                  </div>
+                  
+                  {{/each}}
+                </div>
+               
+              </div>
+            </div>
+            {{/each}}
+          </div>
+        </div>
+        <script type="text/javascript" src="https://form.jotform.com/jsform/201401743804041"></script>
+
+        
+    <a
+    href="javascript:void(
+      window.open(
+        'https://form.jotform.com/201401743804041',
+        'blank',
+        'scrollbars=yes,
+        toolbar=no,
+        width=700,
+        height=500'
+      )
+    )
+  ">
+    Sehatvan Online Module
+  </a>
+        <div class="col-lg-3 p-0">
+          <hr>
+          <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
+            {{#each online as |category|}}
+            <a href="#{{md5 category.name}}" class="nav-link text-primary" data-toggle="pill" role="tab"
+              aria-controls="{{md5 category.name}}" aria-selected="false">
+              {{#lang category.name}}{{/lang}}
+            </a>
+            {{/each}}
+          </div>
+        </div>
+</section>

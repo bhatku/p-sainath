@@ -226,14 +226,16 @@ body {
   line-height: 1.7;
 }
 
-hr {
-  max-width: 50px;
-  border-color: #f4dd0c;
-  border-width: 3px;
-}
+  
 
 hr.light {
   border-color: #fff;
+}
+hr {
+  max-width: 120px;
+  border: 2px solid;
+  border-image: linear-gradient(90deg, rgba(250,224,66,1), rgba(250,224,66,0)) 1;
+  border-radius: 1px;
 }
 
 a {
