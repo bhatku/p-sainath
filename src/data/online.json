@@ -21,7 +21,7 @@
           "hi": "What outcomes can I expect?"
         },
         "ans": {
-          "en": "<ul> <li>Regulate BP, Glucose, pains, Laziness</li> <li>Increase Sleep, focus, stamina</li> <li>Build long-lasting habits</li> <li>Digital detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
+          "en": "<ul> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Digital Detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
           "hi": "<ul> <li>Regulate BP, Glucose, pains, Laziness</li> <li>Increase Sleep, focus, stamina</li> <li>Build long-lasting habits</li> <li>Digital detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>"
         }
       },
@@ -80,7 +80,7 @@
       {
         "ques": {
           "en": "What will I need?",
-          "hi": "पWhat will I need?"
+          "hi": "What will I need?"
         },
         "ans": {
           "en": "At Sehatvan we believe in principle of <strong>essentialism and self-care</strong>. <br><br> <strong>Time:</strong> You will need some flexibility to adjust your current schedule and upto 2-3 hours everyday to engage in your health. This would mostly be spent in preparing food, mood or body. <br> <br> <strong>Technology:</strong> We are flooded with screen time and technology in our lives. In this process, we will use essential technology to facilitate us but avoid any distraction. You would need access to email, a web browser(pc/phone) and occasionally record some photos and videos. <br> <br> <strong>Food & Equipment:</strong> We do not use any fancy supplements, gym equipments or exotic foods in our process. We will try to customize you diet based on what is locally available in your area.",
@@ -124,8 +124,8 @@
           "hi": "Disclaimer"
         },
         "ans": {
-          "en": "No. It is not a Center for Naturopathy. Activities that are usually done in Naturopathy Centers are not here.",
-          "hi": "नहीं, सेहतवन नैचुरोपैथी सेंटर नहीं है। यहाँ पर आमतौर से नैचुरोपैथी सेंटर्स में करवाए जाने वाली क्रियाएँ नहीं की जाती हैं।"
+          "en": "Dr. Gupta is not a medical doctor and this is not a medical program. Through this program you will be researching on your own health and fitness. For any medical need you will contibue seeking advice through your physician. you will need to waive Sehatvan, Dr. Gupta and the team from any legal or medical liability.",
+          "hi": "Dr. Gupta is not a medical doctor and this is not a medical program. Through this program you will be researching on your own health and fitness. For any medical need you will contibue seeking advice through your physician. you will need to waive Sehatvan, Dr. Gupta and the team from any legal or medical liability."
         }
       }
    
@@ -157,7 +157,7 @@
           "hi": "Will I have 24/7 call support?"
         },
         "ans": {
-          "en":"It is not required in our process. Also, personally we wish everyone to use as less phones as possible. We would expect you to do daily reporting via online forms. We will send our recommendations via email/video.",
+          "en":"It is not required in our process. Also, we wish everyone to use as less phones as possible. We would expect you to do daily reporting via online forms. We will send our recommendations via email/video.",
           "hi": "Sorry, that won’t be possible for us. It is not required in our process. Also, personally we wish everyone to use as less phones as possible. We would expect you to do daily reporting via online forms. We will send our recommendations via email/video."
         }
       },
@@ -183,16 +183,7 @@
           "hi": "नहीं, सेहतवन मेडिकल संस्थान नहीं है। यह सेहत-आयु या फ़िटनेस सुधारने के लिए एक सेल्फ-हीलिंग कम्यूनिटी स्पेस (आश्रम) है।"
         }
       },
-      {
-        "ques": {
-          "en": "Is this a Naturopathy Center?",
-          "hi": "क्या सेहतवन नैचुरोपैथी सेंटर है?"
-        },
-        "ans": {
-          "en": "No. It is not a Center for Naturopathy. Activities that are usually done in Naturopathy Centers are not here.",
-          "hi": "नहीं, सेहतवन नैचुरोपैथी सेंटर नहीं है। यहाँ पर आमतौर से नैचुरोपैथी सेंटर्स में करवाए जाने वाली क्रियाएँ नहीं की जाती हैं।"
-        }
-      },
+      
       {
         "ques": {
           "en": "Is Dr. Vipin Gupta a medical doctor?",
