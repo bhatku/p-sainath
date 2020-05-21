@@ -21,7 +21,7 @@
           "hi": "What outcomes can I expect?"
         },
         "ans": {
-          "en": "<ul> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Digital Detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
+          "en": "<ul class=\"large-text\"> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Digital Detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
           "hi": "<ul> <li>Regulate BP, Glucose, pains, Laziness</li> <li>Increase Sleep, focus, stamina</li> <li>Build long-lasting habits</li> <li>Digital detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>"
         }
       },
