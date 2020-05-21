@@ -54,13 +54,19 @@
     <div class="collapse navbar-collapse p-4 p-md-0" id="navbarCollapse">
       <ul class="navbar-nav mr-auto"></ul>
       <ul class="navbar-nav nav">
-        <li class="nav-item">
+        <!--li class="nav-item">
           <a class="nav-link" href="health.html">FITNESS IN DISEASES
                         <span class="sr-only">(current)</span>
                     </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="fitness.html">FITNESS IN LIFE
+                        <span class="sr-only">(current)</span>
+                    </a>
+        </li-->
+         
+        <li class="nav-item">
+          <a class="nav-link" href="index.html#forest">FOREST MODULE
                         <span class="sr-only">(current)</span>
                     </a>
         </li>
@@ -102,7 +108,8 @@
         <h1 class="text-white display-4" >
           <span class="en">Welcome to Sehatvan</span><span class="hi d-none">सेहतवन में आपका स्वागत है।</span>
           </h1>
-        <p class="bg-white lead px-2 w-50"><span class="en">Reboot your physical and mental fitness.</span><span class="hi d-none">स्वस्थ यानि स्व में स्थित होना है।</span></p>
+     
+        <p class="bg-white lead px-2 w-50 rounded"><span class="en">Reboot your physical and mental fitness.</span><span class="hi d-none">स्वस्थ यानि स्व में स्थित होना है।</span></p>
       </div>
     </div>
     <section id="top_goals" class="container">
@@ -129,7 +136,7 @@
         </div>
       </div>
      
-      <div class="container">
+      <div id="forest" class="container">
         <div class="text-center">
           <h2 class="section-heading">Forest Fitness Module <br> <strong>At Sehatvan</strong></h2>
           <hr />
@@ -359,13 +366,22 @@
 </div>
   <section class="footer pt-0 pb-2 ">
       <div class="container mx-auto">
-                      <button type="button" onclick="location.href='book.html'" class="btn btn-success ">Book
-                  Now</button>
-              <button type="button" onclick="location.href='faq.html'" class="btn btn-info ml-2">Read
-                  FAQs</button>
-              <button type="button" onclick="location.href='tel:+918602525887'"
-                  class="btn btn-info ml-2 ">Call</button>           
+                      <!--button type="button" onclick="location.href='book.html'" class="btn btn-success ">Online Module</button>
+              <button type="button" onclick="location.href='faq.html'" class="btn btn-info ml-2">Forest Module</button-->
+              
           
+                  <div class="btn-group dropup">
+                    <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Book Now
+                    </button>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="index.html#forest">Forest Module</a>
+                      <a class="dropdown-item" href="online.html">Online Module</a>
+                    </div>
+                  </div>
+                  <button type="button" onclick="location.href='tel:+918602525887'"
+                  class="btn btn-info ml-2 ">Call</button>          
+                  
       </div>
   </section>
       
