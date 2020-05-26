@@ -1,14 +1,13 @@
-<section class="accordion-section clearfix mt-3 offset-lg-1 col-lg-9" aria-label="Question Accordions">
+<section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
   <div class="container">
     <h2 class="mb-3 text-center text-primary ">Sehatvan Online Module</h2>
     <hr>
-    <p class="text-center"><em>6-week Personalised Fitness-At-Home</em>
+    <p class="text-center"><em>6-week Fitness-At-Home Program</em>
     
     </p>
-    This page is under constuction.
-    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3fa3c711b714f2147733eaa66","lid":"3aba281b36","uniqueMethods":true}) })</script>
-      <!--div class="row">
-        <div class="col-lg-6 mx-auto text-center p-0">
+    
+      <div class="row">
+        <div class="col-lg-4 mx-auto text-center p-0">
           
           <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
             {{#each online as |category|}}
@@ -21,7 +20,7 @@
           </div>
          
         </div>
-        <div class="col-lg-8 offset-lg-2 mb-3 p-0 ">
+        <div class="col-lg-8   offset-lg-2 mb-3 p-0 ">
           <div class="tab-content" id="faq-tab-content">
             {{#each online as |category|}}
             <div class="tab-pane   {{#if_eq @index 0}}show active{{/if_eq}}" id="{{md5 category.name}}" role="tabpanel"
@@ -34,10 +33,11 @@
                  {{#if category.show}}
                   <p>{{category.text1}} <br> <br>
                   Duration: <strong>6 weeks</strong> <br>
-                  Language: <strong>English & Hindi</strong>
+                  Language: <strong>English or Hindi</strong> <br>
+                  Dates: Choose your own date to begin. (subject to availability)
                   </p>
                   {{/if}}
-                  <div class="text-center"><a href="https://forms.gle/YXo8HXujPg4BcHjTA" class="btn btn-success">Fill the registration form</a></div>
+                 
                 </div>
                 <div class="card ">
                   {{#each category.set as |qna|}}
@@ -62,7 +62,7 @@
             </div>
             {{/each}}
           </div>
-          <div class="text-center"><a href="https://forms.gle/YXo8HXujPg4BcHjTA" class="btn btn-success">Fill the registration form</a></div>
+          <div class="text-center"> <em>Ready to Start? Click below.</em> <br> <a href="https://forms.gle/YXo8HXujPg4BcHjTA" class="btn btn-success">Fill the registration form</a></div>
         </div>
      
         <div class="col-lg-6 mx-auto text-center p-0">
