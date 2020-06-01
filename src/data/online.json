@@ -1,4 +1,3 @@
-
 [
   {
     
@@ -7,7 +6,7 @@
       "en": "About The Module",
       "hi":"फॉरेस्ट थेरेपी के बारे में"
     },
-    "text1":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases. This is a personalised coaching program for Fitness-At-Home.",
+    "text1":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases.",
     
     "btn1":"I am Interested!",
     "btn1link":"c07da22fb46efddb497f418e2c2f5248b",
@@ -18,21 +17,21 @@
         
         "ques": {
           "en": "What outcomes can I expect?",
-          "hi": "What outcomes can I expect?"
+          "hi": "मैं इस प्रक्रिया से किन परिणामों की अपेक्षा कर सकता हूँ?"
         },
         "ans": {
-          "en": "<ul class=\"large-text\"> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Emotional Fitness</li>  <li>Digital Detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> </ul>",
-          "hi": "<ul> <li>Regulate BP, Glucose, pains, Laziness</li> <li>Increase Sleep, focus, stamina</li> <li>Build long-lasting habits</li> <li>Digital detox</li> <li>Tracking your health</li> <li>Understanding health parameters</li> <li>Emotional Fitness</li> </ul>"
+          "en": "<ul class=\"large-text\"> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Digital Detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
+          "hi": "<ul> <li>ब्लड प्रेशर, ब्लड ग्लूकोस, वज़न और thyroidism को नियमित करें </li> <li>नींद की क्वालिटी, फ़ोकस और स्टैमिना बढ़ाएँ </li> <li>दर्द और आलस कम करें</li> <li> जीवन शैली स्वस्थ बनाएँ </li> <li>डिजिटल डिटाक्स </li> <li>इमोशनल फ़िट्नेस</li> <li>अपने स्वास्थ को कैसे ट्रैक करे?</li> <li>अपने हेल्थ परिमापों को समझें?</li>  </ul>"
         }
       },
       {
         "ques": {
           "en": "What not to expect?",
-          "hi": "What not to expect?"
+          "hi": "किन चीज़ों की अपेक्षा ना करें?"
         },
         "ans": {
           "en": "<ul> <li>Deep Fasting(Autophagy)</li> <li>Reversing diseases completely</li> </ul>",
-          "hi": "<ul> <li>Deep Fasting(Autophagy)</li> <li>Reversing diseases completely</li> </ul>"
+          "hi": "<ul> <li>डीप फ़ास्टिंग (ओटोफेजी )</li> <li> पूरी तरह से डिज़ीज़ रिवर्सल</li> </ul>"
         }
       },
       {
@@ -42,18 +41,18 @@
         },
         "ans": {
           "en": "This programme is suitable for healthy people as well as those suffering from diseases. Healthy people can benefit by increasing their stamina and health-span while people suffering from ailments can regulate their diseases. <br> <br> However, people with critical condition(those who require regular hospital attention) cannot do this program.",
-          "hi": "इसे स्वस्थ और बीमार दोनों तरह के लोग कर सकते हैं। इससे स्वस्थ लोगों का हैल्थ-स्पान बढ़ता है और बीमार लोग स्वस्थ होने लगते हैं।"
+          "hi": "इसे स्वस्थ और बीमार दोनों तरह के लोग कर सकते हैं। इससे स्वस्थ लोगों का हैल्थ-स्पान बढ़ता है और बीमार लोग स्वस्थ होने लगते हैं।"
         }
       },
       
       {
         "ques": {
           "en": "What will I get?",
-          "hi": "इसमें करते क्या हैं? "
+          "hi": "प्रक्रिया में क्या मिलेगा? "
         },
         "ans": {
           "en": "<ul> <li>6-week personalized health protocol</li> <li>Weekly consultation call with Dr. Vipin Gupta</li> <li>2 subject videos every week</li> <li>Daily tracking form</li> <li>Whatsapp voice support by Sehatvan Team</li> <li>Daily schedule</li> <li>Diet planning support</li> <li>New recipes</li> </ul>",
-          "hi": "<ul> <li>6-week personalized health protocol</li> <li>Weekly consultation call with Dr. Vipin Gupta</li> <li>2 subject videos every week</li> <li>Daily tracking form</li> <li>Whatsapp voice support by Sehatvan Team</li> <li>Daily schedule</li> <li>Diet planning support</li> <li>New recipes</li> </ul>"
+          "hi": "<ul> <li>6-सप्ताह का पर्सनलाईज़्ड हेल्थ प्रोटोकोल </li> <li>साप्ताहिक कंसलटेशन कॉल डॉ॰ विपिन गुप्ता के साथ </li> <li>2 विषय से सम्बंधित वीडीयोज़ हर सप्ताह </li> <li>रोज़ की ट्रैकिंग के लिए फ़ॉर्म </li> <li> व्हाटसेप पर सेहतवन टीम द्वारा वोइस सपोर्ट </li> <li>प्रतिदिन का शिडयूल</li> <li>डाइयट प्लानिंग सपोर्ट </li> <li>नयी रेसीपीस</li> </ul>"
         }
       },
       {
@@ -63,8 +62,8 @@
           "hi": "क्या फीस है?"
         },
         "ans": {
-          "en": "This is a personalised program and we will work with only a small number of participants. Current situations have changed dynamics of money for everybody. We request you to choose an amount based on affordability and value to you. <br><br> <strong>You can choose to pay</strong> INR 10,000 or INR 15,000 or INR 20,000.<br><br> This contribution sustains Sehatvan and its future. Higher contribution helps us to offset costs for those who cannot pay more. It also reflects the commitment and responsibility from your side. <br> Choosing a lower amount will not change the commitment or service from our end.",
-          "hi": "Current situations have changed dynamics of money for everyone. We request you to choose an amount based on affordability and value to you. <br><br> You can choose to pay INR 10,000 or INR 15,000 or INR 20,000.<br><br> This contribution sustains Sehatvan and its future development. Higher contribution helps us to offset costs for those who cannot pay more. It also reflects the commitment and responsibility from your side. <br> Choosing a lower amount will not change our commitment or service."
+          "en": "This is a personalised program and we will work with only a small number of participants. Current situations have changed dynamics of money for everyone. We request you to choose an amount based on affordability and value to you. <br><br> <strong>You can choose to pay</strong> INR 10,000 or INR 15,000 or INR 20,000.<br><br> This contribution sustains Sehatvan and its future. Higher contribution helps us to offset costs for those who cannot pay more. It also reflects the commitment and responsibility from your side. <br> Choosing a lower amount will not change the commitment or service from our end.",
+          "hi": "यह एक पर्सनलाईज़्ड प्रोग्राम है और हम एक समय में कुछ ही पार्टीसिपेंट्स के साथ काम करते है। वर्तमान परिस्थिति में आर्थिक स्थितियाँ सभी के लिए बदल गयी है। हम आपसे अनुरोध करते है की आप अपने सामर्थ्य और स्थिति के अनुसार धनराशि का चयन करे। <br><br> आप इनमें से -INR 10,000 या INR 15,000 या INR 20,000 - धनराशि के भुगतान का चयन कर सकते है।<br><br> यह योगदान सेहतवन और उसके भविष्य में सहायक रहेगी। अधिक योगदान हमें उन पार्टीसिपेंट्स को प्रोग्राम में शामिल करने के लिए सहायक होगा जो ज़्यादा फ़ीस देने में असमर्थ है। यह आपकी तरफ़ से कमिट्मेंट और ज़िम्मेदारी का प्रतीक है। <br> कम धनराशि के चयन से हमारे कमिट्मेंट और सेवाओं में कोई बदलाव नहीं होगा।"
         }
       },
       {
@@ -74,17 +73,17 @@
         },
         "ans": {
           "en": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> A <strong>drug discovery scientist</strong>, he spent over two decades developing new medicines for various pharma companies in India, Europe and America. In 2011 he was invited by The Royal Swedish Academy of Sciences at Nobel Museum, Stockholm to represent Southeast Asia. He co-founded a research publishing company ‘Inventi’ in 2010 and a self-healing space ‘Sehatvan’ in 2016. <p> ‘Sahaj Sehat’ series carries the viewpoints of how body’s auto-repair capabilities can make use of medicines redundant in lifestyle diseases. </p>",
-          "hi": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> दृग डिस्कवरी वैज्ञानिक के रूप में दो दशकों के दौरान भारत, यूरोप, अमेरिका की विभिन्न फार्मा कंपनियों के लिए नई दवाइयों को विकसित करने का काम किया। 2011 में आपको रॉयल स्वीडिश अकादेमी ऑफ साइंसेस ने नोबेल म्यूज़ियम, स्टॉकहोम में दक्षिण पूर्वी एशिया का प्रतिनिधित्व करने के लिए आमंत्रित किया। आपने 2010 एक रिसर्च पब्लिशिंग कंपनी – ‘Inventi’ और 2016 में एक सेल्फ हीलिंग स्पेस ‘सेहतवन’ का सह-संस्थापन किया।</p> <p > ‘सहज सेहत’ श्रंखला इस सोच को प्रस्तुत करती है कि कैसे शरीर की ऑटो-रिपेयर क्षमताओं से लाइफ़स्टाइल बीमारियों को हमेशा के लिए खत्म किया जा सके। </p>"
+          "hi": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> दृग डिस्कवरी वैज्ञानिक के रूप में दो दशकों के दौरान भारत, यूरोप, अमेरिका की विभिन्न फार्मा कंपनियों के लिए नई दवाइयों को विकसित करने का काम किया। 2011 में आपको रॉयल स्वीडिश अकादेमी ऑफ साइंसेस ने नोबेल म्यूज़ियम, स्टॉकहोम में दक्षिण पूर्वी एशिया का प्रतिनिधित्व करने के लिए आमंत्रित किया। आपने 2010 एक रिसर्च पब्लिशिंग कंपनी – ‘Inventi’ और 2016 में एक सेल्फ हीलिंग स्पेस ‘सेहतवन’ का सह-संस्थापन किया।</p> <p > ‘सहज सेहत’ श्रंखला इस सोच को प्रस्तुत करती है कि कैसे शरीर की ऑटो-रिपेयर क्षमताओं से लाइफ़स्टाइल बीमारियों को हमेशा के लिए खत्म किया जा सके। </p>"
         }
       },
       {
         "ques": {
           "en": "What will I need?",
-          "hi": "What will I need?"
+          "hi": "मुझे किन चीज़ों की ज़रूरत पड़ेगी"
         },
         "ans": {
-          "en": "At Sehatvan we believe in principle of <strong>essentialism and self-care</strong>. <br><br> <strong>Time:</strong> You will need some flexibility to adjust your current schedule and upto 1-3 hours everyday to engage in your health. This would mostly be spent in preparing food, mood or body. This is highly subjective. <br> <br> <strong>Technology:</strong> We are flooded with screen time and technology in our lives. In this process, we will use essential technology to facilitate us but avoid any distraction. You would need access to email, a web browser(pc/phone) and occasionally record some photos and videos. <br> <br> <strong>Food & Equipment:</strong> We do not use any fancy supplements, gym equipments or exotic foods in our process. We will try to customize you diet based on what is locally available in your area.",
-          "hi": "At Sehatvan we believe in principle of essentialism and self-care. <br> Technology: We are flooded with screen time and technology in our lives. In this process, we will use essential technology to facilitate us and avoid any distraction. You would need access to email, a web browser(pc/phone) and occasionally record some photos and videos. <br> Food: We do not use any fancy supplements or exotic foods in our process. We will try to customize you diet based on what is locally available in your area."
+          "en": "At Sehatvan we believe in principle of <strong>essentialism and self-care</strong>. <br><br> <strong>Time:</strong> You will need some flexibility to adjust your current schedule and upto 2-3 hours everyday to engage in your health. This would mostly be spent in preparing food, mood or body. <br> <br> <strong>Technology:</strong> We are flooded with screen time and technology in our lives. In this process, we will use essential technology to facilitate us but avoid any distraction. You would need access to email, a web browser(pc/phone) and occasionally record some photos and videos. <br> <br> <strong>Food & Equipment:</strong> We do not use any fancy supplements, gym equipments or exotic foods in our process. We will try to customize you diet based on what is locally available in your area.",
+          "hi": "सेहतवन में हम essentialism और self-care के सिद्धान्त पर काम करते है। <br> टेक्नॉलजी : हम सभी ओर से टेक्नॉलजी और स्क्रीन्स से घिरे हुए है। हम इस प्रक्रिया में सिर्फ़ उसी टेक्नॉलजी का उपयोग करेंगे जिससे हमें इस प्रॉसेस में सहायता हो। आपको ईमेल, वेब ब्राउज़र(फ़ोन या कम्प्यूटर) का उपयोग करना होगा और कभी-कभी फ़ोटोज़ या वीडीयोज रेकार्ड करने होंगे। <br> भोजन : हम बिलकुल ही साधे और सरल भोजन में विश्वास करते है। हम इस प्रक्रिया में आपकी डाइयट को customise करेंगे और उन्ही पदार्थों को इसमें शामिल करेंगे जो आपके नज़दीक उपलब्ध हो।"
         }
       }
     ]
@@ -93,39 +92,38 @@
     
     "name": {
       "en": "How to Join",
-      "hi": "How to Join"
-
+      "hi": "कैसे शामिल हो"
     },
     "set": [
       {
         
         "ques": {
           "en": "The Process",
-          "hi": "The Process"
+          "hi": "प्रक्रिया"
         },
         "ans": {
-          "en": "<ol> <li>Read the website and FAQs</li> <li>Fill the registration form and wait for approval</li> <li>On approval, you will receive a payment link by email</li> <li>Make the payment to confirm your participation</li> </ol>",
-          "hi":"<ol> <li>Read the website and FAQs</li> <li>Fill the registration form and wait for approval – click here</li> <li>On approval, you will receive a payment link by email</li> <li>Make the payment to confirm your participation</li> </ol>"
+          "en": "<ol> <li>Read the website and FAQs</li> <li>Fill the registration form and wait for approval – click here</li> <li>On approval, you will receive a payment link by email</li> <li>Make the payment to confirm your participation</li> </ol>",
+          "hi":"<ol> <li>वेबसाइट और FAQs पढ़े </li> <li>रेजिस्ट्रेशन फ़ॉर्म भरे और अप्रूवल का इंतज़ार करे। </li> <li>अप्रूवल होने पर आपको पेमेंट लिंक ईमेल पर भेजी जाएगी </li> <li> फ़ीस देकर अपने पर्टिसिपेशन की पुष्टि करे। </li> </ol>"
         }
       },
       {
         "ques": {
           "en": "What is the refund policy?",
-          "hi": "रिफ़ंड पॉलिसी क्या है?"
+          "hi": "रिफ़ंड पॉलिसी क्या है?"
         },
         "ans": { 
           "en": "Ideally we request you to join only after you are convinced and willing to commit to the process. If not, we request you to watch out videos to understand more and postpone until you feel ready.  <i>Cancellation (only upto first 5 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the program.",
-          "hi": "Ideally we request you to join only after you are convinced and willing to commit to the process. If not, we request you to watch out videos to understand more and postpone until you feel ready.  <i>Cancellation (only upto first 5 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the program."
+          "hi": "हमारा आपसे अनुरोध है की इस प्रोग्राम में तब ही शामिल हो जब आपका इसे करने का दृढ़ निश्चय हो। अगर ऐसा नहीं है, उस परिस्थिति में आप कृपया हमारे विडीओज़ को यूट्यूब पर देखे और समझे। तब करें जब आप इसे करने के लिए ख़ुद को तैयार महसूस करे।<i> Cancellation (प्रक्रिया के पहले ५ दिन तक मान्य )</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the program."
         }
       },
       {
         "ques": {
           "en": "Disclaimer",
-          "hi": "Disclaimer"
+          "hi": "डिस्क्लेमर"
         },
         "ans": {
           "en": "Dr. Gupta is not a medical doctor and this is not a medical program. Through this program you will be researching on your own health and fitness. For any medical need you will contibue seeking advice through your physician. you will need to waive Sehatvan, Dr. Gupta and the team from any legal or medical liability.",
-          "hi": "Dr. Gupta is not a medical doctor and this is not a medical program. Through this program you will be researching on your own health and fitness. For any medical need you will contibue seeking advice through your physician. you will need to waive Sehatvan, Dr. Gupta and the team from any legal or medical liability."
+          "hi": "डॉ॰ गुप्ता मेडिकल डॉक्टर नहीं है और यह एक मेडिकल प्रोग्राम नहीं है। इस प्रोग्राम के द्वारा आप अपनी सेहत और फ़िट्नेस पर रीसर्च कर सकेंगे। अगर आपकी कोई भी मेडिकल ज़रूरत है तो आप अपने physician से कन्सल्ट करते रहे। You will need to waive Sehatvan, Dr. Gupta and the team from any legal or medical liability."
         }
       }
    
@@ -136,40 +134,39 @@
     "name": {
       "en": "FAQs",
       "hi": "सेहतवन के बारे में"
-
     },
     "set": [
       {
         
         "ques": {
           "en": "Am I dealing with an app or human?",
-          "hi": "Am I dealing with an app or human?"
+          "hi": "क्या यह एक ऐप है या कोई व्यक्ति?"
         },
         "ans": {
           "en":"There is no app. All humans on this side. We will be using essential technology. The goal is to only use what is necessary. There is no app on this side and we do not track or sell of any data. We personally read and respond to every message.",
-          "hi": "We will be using essential technology. The goal is to only use what is necessary. There is no app on this side and we do not track or sell of any data. We personally read and respond to every message."
+          "hi": "हम सरल टेक्नॉलजी का ही उपयोग करेंगे। वही उपयोग में लाए जो अनिवार्य हो। हम किसी भी तरह के data को ट्रैक या उसका विक्रय नहीं करते। हमारी टीम हर मेसिज को व्यक्तिगत रूप से पढ़कर जवाब देती है।"
         }
       },
       {
         
         "ques": {
           "en": "Will I have 24/7 call support?",
-          "hi": "Will I have 24/7 call support?"
+          "hi": "क्या मुझे 24/7 कॉल सपोर्ट मिलेगा?"
         },
         "ans": {
           "en":"It is not required in our process. Also, we wish everyone to use as less phones as possible. We would expect you to do daily reporting via online forms. We will send our recommendations via email/video.",
-          "hi": "Sorry, that won’t be possible for us. It is not required in our process. Also, personally we wish everyone to use as less phones as possible. We would expect you to do daily reporting via online forms. We will send our recommendations via email/video."
+          "hi": "हम क्षमा चाहते है पर यह हमारे लिए मुमकिन नहीं होगा। इसकी हमारी प्रक्रिया में ज़रूरत नहीं होगी। हम यही चाहते है की सभी मोबाइल फ़ोन का कम से कम इस्तेमाल करे। हमें आपसे रोज़ ऑनलाइन फ़ोर्मस के द्वारा रिपोर्टिंग की अपेक्षा है। आपसे ईमेल/विडीओज़ या साप्ताहिक कॉल के माध्यम से संपर्क रहेगा।"
         }
       },
       {
         
         "ques": {
           "en": "This is an online course, shouldn’t it be free?",
-          "hi": "This is an online course, shouldn’t it be free? I cannot pay for this."
+          "hi": "यह एक ऑनलाइन कोर्स है, क्या यह मुफ़्त में नहीं उपलब्ध हो सकता? मैं यह धनराशि देने में असमर्थ हूँ।"
         },
         "ans": {
           "en":"Our research is available as videos for free viewing. You can consult that and do your own experiments. Right now, it’s available on youtube at https://youtube.com/sehatvan",
-          "hi": "Our research is available as videos for free viewing. You can consult that and do your own experiments. Right now, it’s available on youtube at https://youtube.com/sehatvan"
+          "hi": "हमारी रीसर्च ऑनलाइन यूट्यूब विडीओज़ के रूप में मुफ़्त में उपलब्ध है। आप उनसे कन्सल्ट करके ख़ुद प्रयोग कर सकते है। विडीओज़ यहाँ उपलब्ध है https://youtube.com/sehatvan"
         }
       },
       {
@@ -180,7 +177,7 @@
         },
         "ans": {
           "en": "No, this is not a medical institution. It is a self-healing community space (ashram) to improve health, fitness and biological age.",
-          "hi": "नहीं, सेहतवन मेडिकल संस्थान नहीं है। यह सेहत-आयु या फ़िटनेस सुधारने के लिए एक सेल्फ-हीलिंग कम्यूनिटी स्पेस (आश्रम) है।"
+          "hi": "नहीं, सेहतवन मेडिकल संस्थान नहीं है। यह सेहत-आयु या फ़िटनेस सुधारने के लिए एक सेल्फ-हीलिंग कम्यूनिटी स्पेस (आश्रम) है।"
         }
       },
       
@@ -191,10 +188,11 @@
         },
         "ans": {
           "en": "No, Dr. Vipin Gupta is not a medical doctor. He is a M.Pharm, Ph.D., a Drug Discovery Scientist, and has researched in Europe and America, apart from India.",
-          "hi": "नहीं, डा विपिन गुप्ता मेडिकल डॉक्टर नहीं है। वे एम फार्म, पीएचडी हैं, दवाइयों के विशेसज्ञ (ड्रग डिस्कवरी साइंटिस्ट) हैं और भारत के अलावा योरोप और अमेरिका में शोध कर चुके हैं।"
+          "hi": "नहीं, डॉ॰ विपिन गुप्ता मेडिकल डॉक्टर नहीं है। वे एम फार्म, पीएचडी हैं, दवाइयों के विशेषज्ञ (ड्रग डिस्कवरी साइंटिस्ट) हैं और भारत के अलावा यूरोप और अमेरिका में शोध कर चुके हैं।"
         }
       }
     ]
   }
-
 ]
+   
+
