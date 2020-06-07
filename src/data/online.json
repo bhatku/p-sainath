@@ -6,10 +6,8 @@
       "en": "About The Module",
       "hi":"फॉरेस्ट थेरेपी के बारे में"
     },
-    "text1":{
-      "en":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases.",
-      "hi":"घर ऐसा होना चाहिए जो हमें आराम, स्फूर्ति और सेहत दे। "
-    },
+    "text1":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases.",
+      
     "btn1":"I am Interested!",
     "btn1link":"c07da22fb46efddb497f418e2c2f5248b",
     "show":"true",
@@ -75,7 +73,7 @@
         },
         "ans": {
           "en": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> A <strong>drug discovery scientist</strong>, he spent over two decades developing new medicines for various pharma companies in India, Europe and America. In 2011 he was invited by The Royal Swedish Academy of Sciences at Nobel Museum, Stockholm to represent Southeast Asia. He co-founded a research publishing company ‘Inventi’ in 2010 and a self-healing space ‘Sehatvan’ in 2016. <p> ‘Sahaj Sehat’ series carries the viewpoints of how body’s auto-repair capabilities can make use of medicines redundant in lifestyle diseases. </p>",
-          "hi": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> दृग डिस्कवरी वैज्ञानिक के रूप में दो दशकों के दौरान भारत, यूरोप, अमेरिका की विभिन्न फार्मा कंपनियों के लिए नई दवाइयों को विकसित करने का काम किया। 2011 में आपको रॉयल स्वीडिश अकादेमी ऑफ साइंसेस ने नोबेल म्यूज़ियम, स्टॉकहोम में दक्षिण पूर्वी एशिया का प्रतिनिधित्व करने के लिए आमंत्रित किया। आपने 2010 एक रिसर्च पब्लिशिंग कंपनी – ‘Inventi’ और 2016 में एक सेल्फ हीलिंग स्पेस ‘सेहतवन’ का सह-संस्थापन किया।</p> <p > ‘सहज सेहत’ श्रंखला इस सोच को प्रस्तुत करती है कि कैसे शरीर की ऑटो-रिपेयर क्षमताओं से लाइफ़स्टाइल बीमारियों को हमेशा के लिए खत्म किया जा सके। </p>"
+          "hi": "<img src=\"../assets/img/s/vb profile.jpg\"alt=\"\" class=\"  mr-3 mb-2\" style=\"width: 300px; max-width:80%;\"> <br> दृग डिस्कवरी वैज्ञानिक के रूप में दो दशकों के दौरान भारत, यूरोप, अमेरिका की विभिन्न फार्मा कंपनियों के लिए नई दवाइयों को विकसित करने का काम किया। 2011 में आपको रॉयल स्वीडिश अकादेमी ऑफ साइंसेस ने नोबेल म्यूज़ियम, स्टॉकहोम में दक्षिण पूर्वी एशिया का प्रतिनिधित्व करने के लिए आमंत्रित किया। आपने 2010 एक रिसर्च पब्लिशिंग कंपनी – ‘Inventi’ और 2016 में एक सेल्फ हीलिंग स्पेस ‘सेहतवन’ का सह-संस्थापन किया।</p> <p> ‘सहज सेहत’ श्रंखला इस सोच को प्रस्तुत करती है कि कैसे शरीर की ऑटो-रिपेयर क्षमताओं से लाइफ़स्टाइल बीमारियों को हमेशा के लिए खत्म किया जा सके। </p>"
         }
       },
       {
