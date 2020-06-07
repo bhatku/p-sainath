@@ -6,8 +6,10 @@
       "en": "About The Module",
       "hi":"फॉरेस्ट थेरेपी के बारे में"
     },
-    "text1":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases.",
-    
+    "text1":{
+      "en":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases.",
+      "hi":"घर ऐसा होना चाहिए जो हमें आराम, स्फूर्ति और सेहत दे। "
+    },
     "btn1":"I am Interested!",
     "btn1link":"c07da22fb46efddb497f418e2c2f5248b",
     "show":"true",
