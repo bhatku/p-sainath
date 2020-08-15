@@ -6,8 +6,8 @@
     "forest":"10 to 20 days",
     "home": "3 to 4 weeks",
     "followup": "1 to 2",
-    "indian": "INR 20,000",
-    "foreign": "USD 350",
+    "indian": "INR 25,000",
+    "foreign": "USD 400",
     "video_id":"ognfCMKisKw",
     "video_description":"Module Video",
     "set": [
@@ -34,11 +34,15 @@
       },
       {
         "ques": "Daily/Hourly Protocols",
-        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:sehatvan@gmail.com\">sehatvan@gmail.com</a> to receive."
+        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:namaste@sehatvan.in\">namaste@sehatvan.in</a> to receive."
       },
       {
         "ques": "PRECAUTION",
         "ans": "The protocol should be undertaken <strong>only under medical supervision</strong> as people under medication require continuous dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase."
+      },
+      {
+        "ques": "Is there a discount available?",
+        "ans": "Yes, we offer discount in following cases: <br>For students & social workers: Rs.5000<br> For participants of online module: Rs.5000 "
       }
       
      
@@ -52,8 +56,8 @@
     "forest":"10 to 20 days",
     "home": "3 to 4 weeks",
     "followup": "1 to 2",
-    "indian": "INR 20,000",
-    "foreign": "USD 350",
+    "indian": "INR 25,000",
+    "foreign": "USD 400",
     "video_id":"Y0ZpPCIDjkc",
     "video_description":"Module Video",
     "set": [
@@ -81,13 +85,17 @@
       },
       {
         "ques": "Daily/Hourly Protocols",
-        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:sehatvan@gmail.com\">sehatvan@gmail.com</a> to receive."
+        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:namaste@sehatvan.in\">namaste@sehatvan.in</a> to receive."
       },
       {
         "ques": "PRECAUTION",
         "ans": "The protocol should be undertaken only under medical supervision as people under medication require continuous dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase. Since Sehatvan is not a medical institution, we recommend people coming here keeping in touch with their doctor."
       }
-      
+     ,
+     {
+      "ques": "Is there a discount available?",
+      "ans": "Yes, we offer discount in following cases: <br>For students & social workers: Rs.5000<br> For participants of online module: Rs.5000 "
+    } 
      
      
     ]
@@ -99,8 +107,8 @@
     "forest":"15 to 20 days",
     "home": "3 to 4 weeks",
     "followup": "1 to 2",
-    "indian": "INR 20,000",
-    "foreign": "USD 350",
+    "indian": "INR 25,000",
+    "foreign": "USD 400",
     "video_id":"y2aZqVBtiMk",
     "video_description":"Module Video",
     "set": [
@@ -121,7 +129,7 @@
       },
       {
         "ques": "Daily/Hourly Protocols",
-        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:sehatvan@gmail.com\">sehatvan@gmail.com</a> to receive."
+        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:namaste@sehatvan.in\">namaste@sehatvan.in</a> to receive."
       },
       {
         "ques": "PRECAUTION",
@@ -130,6 +138,10 @@
       {
         "ques": "Limitations",
         "ans": "This protocol hasn’t been tested for all autoimmune situations and might remain ineffective in some. Also, protocol’s multiple administration may require with some people."
+      },
+      {
+        "ques": "Is there a discount available?",
+        "ans": "Yes, we offer discount in following cases: <br>For students & social workers: Rs.5000<br> For participants of online module: Rs.5000 "
       }
       
      
@@ -144,8 +156,8 @@
     "forest":"10 to 20 days",
     "home": "3 to 4 weeks",
     "followup": "1 to 2",
-    "indian": "INR 20,000",
-    "foreign": "USD 350",
+    "indian": "INR 25,000",
+    "foreign": "USD 400",
     "video_id":"DxJs16g_zNY",
     "video_description":"Module Video",
     "set": [
@@ -170,11 +182,15 @@
       },
       {
         "ques": "Daily/Hourly Protocols",
-        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:sehatvan@gmail.com\">sehatvan@gmail.com</a> to receive."
+        "ans": "Protocol for the first 10 days is standard for everyone and is available at www.sehatvan.in in the form of a booklet. Subsequent protocols are tailor made to each individual’s needs and situations. <br><br> Please send an email to <a href=\"mailto:namaste@sehatvan.in\">namaste@sehatvan.in</a> to receive."
       },
       {
         "ques": "PRECAUTION",
         "ans": "The protocol should be undertaken only under medical supervision as people under medication require continuous dosage adjustments. Also, those carrying toxicities may experience detox symptoms like vomiting, diarrhea, skin rashes, body ache, fever etc during autophagy phase. Since Sehatvan is not a medical institution, we recommend people coming here keeping in touch with their doctor."
+      },
+      {
+        "ques": "Is there a discount available?",
+        "ans": "Yes, we offer discount in following cases: <br>For students & social workers: Rs.5000<br> For participants of online module: Rs.5000 "
       }
      
      
@@ -188,7 +204,7 @@
     "forest":"2 to 4 weeks",
     "home": "4 to 8 weeks",
     "followup": "1 to 2",
-    "indian": "INR 30,000",
+    "indian": "INR 35,000",
     "foreign": "USD 500",
     "set": [
           
