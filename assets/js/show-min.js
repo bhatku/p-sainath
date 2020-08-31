@@ -1,0 +1,1 @@
+$(document).ready(function(){let a=document.location.hash.slice(1);$(`div#${a}`).addClass("tab-pane show active")});
