@@ -34,10 +34,7 @@
 
 							Indian Participants: <br> <strong>{{category.indian}}</strong> <br>
 							International Participants: <br><strong>{{category.foreign}}</strong> <br> <br>
-							<u>Refund Policy:</u> <br>
-							
-							<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> 
-							<br><i>Change of date:</i> <br> subject to availability and updated fees.
+							{{>refund}}
 
                 </p>
               </div>
@@ -75,5 +72,6 @@
             </div>
             {{/each}}
           </div>
+          <a class="btn-success mx-auto btn-lg p-1 rounded" href="book.html"> Book Now </a> 
         </div>
 </section>
