@@ -11,8 +11,8 @@
           
           <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
             {{#each online as |category|}}
-            <a href="#{{md5 category.name}}" class="nav-link text-primary" data-toggle="pill" role="tab"
-              aria-controls="{{md5 category.name}}" aria-selected="false">
+            <a href="#{{category.tab}}" class="nav-link text-primary" data-toggle="pill" role="tab"
+              aria-controls="{{category.tab}}" aria-selected="false">
               {{#lang category.name}}{{/lang}}
             </a>
             
@@ -23,21 +23,32 @@
         <div class="col-lg-8   offset-lg-2 mb-3 p-0 ">
           <div class="tab-content" id="faq-tab-content">
             {{#each online as |category|}}
-            <div class="tab-pane   {{#if_eq @index 0}}show active{{/if_eq}}" id="{{md5 category.name}}" role="tabpanel"
-              aria-labelledby="{{md5 category.name}}">
-              <div class="accordion" id="{{md5 category.name}}">
+            <div class="tab-pane" id="{{category.tab}}" role="tabpanel"
+              aria-labelledby="{{category.tab}}">
+              <div class="accordion" id="{{category.tab}}">
                 <h3 class="mt-4 text-dark text-center text-capitalize">{{#lang category.name}}{{/lang}}</h3>
                 <hr>
                
                 <div class="mx-3">
                  {{#if category.show}}
                   <p>{{category.text1}}<br> <br>
+                    Dates: Choose your own date to begin. (subject to availability) 
+                    <p>Ongoing Programs</p>
+                    <ul class="text-left">
+                      <li>Weight-Loss & Thyroidism - Aug 23 to Oct 04</li>
+                      <li>Immunity & Intelligence - Aug 30 to Oct 11</li>
+                      <li>Blood Pressure & Blood Sugar - Sep 6 - Oct 18</li>
+                      <li>Digital Detox - Sep 13 – Oct 11</li>
+                      <li>Biohacking - Sep 20 – Oct 18</li>
+                      <li>Mental & Emotional Stamina Boosting - Sep 27 – Nov 8</li>
+                    </ul>
                   Duration: <strong>6 weeks</strong> <br>
                   Language: <strong>English or Hindi</strong> <br> <br>
                   Fee Contribution: <br> <i>For Indians</i> <strong>INR 15,000</strong> <br>
                   <i>For Foreign Nationals</i> <strong>USD 350</strong> <br>
-                  <br>
-                  Dates: Choose your own date to begin. (subject to availability)
+                  <br> {{>refund}}
+                 
+                  
                   </p>
                   {{/if}}
                  
@@ -52,7 +63,7 @@
                       </button>
                     </h5>
                   </div>
-                  <div class="collapse {{#if_eq @index 0}}show{{/if_eq}}" id="{{md5 qna.ques}}" data-parent="#{{md5 category.name}}">
+                  <div class="collapse {{#if_eq @index 0}}show{{/if_eq}}" id="{{md5 qna.ques}}" data-parent="#{{category.tab}}">
                     <div class="card-body">
                       <p> {{#lang qna.ans}}{{/lang}}</p>
                     </div>
@@ -62,25 +73,18 @@
                 </div>
                
               </div>
+                  
+              <div class="text-center mt-3"> <a href="{{category.next}}" class="btn btn-info" data-toggle="pill" role="tab"
+                aria-controls="{{category.tab}}" aria-selected="false">{{category.nextname}}</a></div>
+             
+      
             </div>
             {{/each}}
           </div>
           <div class="text-center mt-3"> <em>Ready to Start? Click below.</em> <br> <a href="https://forms.gle/YXo8HXujPg4BcHjTA" class="btn btn-success">Fill the registration form</a></div>
         </div>
-     
-        <div class="col-lg-6 mx-auto text-center p-0">
-          <hr>
-          <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
-            {{#each online as |category|}}
-            <a href="#{{md5 category.name}}" class="nav-link text-primary" data-toggle="pill" role="tab"
-              aria-controls="{{md5 category.name}}" aria-selected="false">
-              {{#lang category.name}}{{/lang}}
-            </a>
-            
-            {{/each}}
-          </div>
-         
-        </div>
+       
+      
       </div>
       </div>
 </section>

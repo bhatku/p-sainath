@@ -1,7 +1,9 @@
 [
   {
     
-    
+    "tab":"about",
+    "next":"#join",
+    "nextname":"Read Next: How to Join",
     "name":{
       "en": "About The Module",
       "hi":"फॉरेस्ट थेरेपी के बारे में"
@@ -20,7 +22,7 @@
           "hi": "मैं इस प्रक्रिया से किन परिणामों की अपेक्षा कर सकता हूँ?"
         },
         "ans": {
-          "en": "<ul class=\"large-text\"> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Digital Detox</li> <li>How to track you health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
+          "en": "<ul class=\"large-text\"> <li>Regulate Blood Glucose, Blood Pressure, Body Weight & Thyroidism.</li> <li>Reduce Pains and Laziness</li> <li>Enhance Sleep Quality, Focus & Stamina</li> <li>Build long-lasting healthy habits</li> <li>Digital Detox</li> <li>How to track your health?</li> <li>How to communicate health parameters?</li> <li>Emotional Fitness</li> </ul>",
           "hi": "<ul> <li>ब्लड प्रेशर, ब्लड ग्लूकोस, वज़न और thyroidism को नियमित करें </li> <li>नींद की क्वालिटी, फ़ोकस और स्टैमिना बढ़ाएँ </li> <li>दर्द और आलस कम करें</li> <li> जीवन शैली स्वस्थ बनाएँ </li> <li>डिजिटल डिटाक्स </li> <li>इमोशनल फ़िट्नेस</li> <li>अपने स्वास्थ को कैसे ट्रैक करे?</li> <li>अपने हेल्थ परिमापों को समझें?</li>  </ul>"
         }
       },
@@ -30,8 +32,8 @@
           "hi": "किन चीज़ों की अपेक्षा ना करें?"
         },
         "ans": {
-          "en": "<ul> <li>Deep Fasting(Autophagy)</li> <li>Reversing diseases completely</li> </ul>",
-          "hi": "<ul> <li>डीप फ़ास्टिंग (ओटोफेजी )</li> <li> पूरी तरह से डिज़ीज़ रिवर्सल</li> </ul>"
+          "en": "<ul>  <li>Reversing diseases completely</li> </ul>",
+          "hi": "<ul> <li> पूरी तरह से डिज़ीज़ रिवर्सल</li> </ul>"
         }
       },
       {
@@ -89,7 +91,10 @@
     ]
   },
   {
-    
+     
+    "tab":"join",
+    "next":"#faq",
+    "nextname":"Read Next: More questions",
     "name": {
       "en": "How to Join",
       "hi": "कैसे शामिल हो"
@@ -130,7 +135,9 @@
     ]
   },
   {
-    
+    "tab":"faq",
+    "next":"#about",
+    "nextname":"Go Back?",
     "name": {
       "en": "FAQs",
       "hi": "सेहतवन के बारे में"
