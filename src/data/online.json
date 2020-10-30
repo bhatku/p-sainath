@@ -8,13 +8,23 @@
       "en": "About The Module",
       "hi":"फॉरेस्ट थेरेपी के बारे में"
     },
-    "text1":"Home recharges us. A place which relaxes, rejuvenates and help us protect from diseases.",
+    "text1":"Do you want to build a lifestyle at home that recharges you? This module will help you to create personal practices which relaxes, rejuvenates and reverses lifestyle diseases.",
       
     "btn1":"I am Interested!",
     "btn1link":"c07da22fb46efddb497f418e2c2f5248b",
     "show":"true",
       "set": [
      
+        {
+          "ques": {
+            "en": "Should I choose 4 weeks or 6 weeks?",
+            "hi": "मुझे चार हफ्ते चुनना चाहिए या 6 हफ्ते?"
+          },
+          "ans": {
+            "en": "If you have 1-2 objectives then you could choose 4 week process. If you have more than 3 objectives then you can choose 6 week process. You can begin with the 4 week process and extend it later also.",
+            "hi": "अगर आपके 1-2 लक्ष्य हैं तो आप 4 हफ्ते की प्रक्रिया चुने। अगर आपके 3 से अधिक लक्ष्य हैं तो 6 हफ्तों की। आप पहले 4 हफ्ते की प्रक्रिया चुन सकते हैं और बाद में उसको बढ़ा सकते हैं।"
+          }
+        },
         {
         
         "ques": {
@@ -26,16 +36,8 @@
           "hi": "<ul> <li>ब्लड प्रेशर, ब्लड ग्लूकोस, वज़न और thyroidism को नियमित करें </li> <li>नींद की क्वालिटी, फ़ोकस और स्टैमिना बढ़ाएँ </li> <li>दर्द और आलस कम करें</li> <li> जीवन शैली स्वस्थ बनाएँ </li> <li>डिजिटल डिटाक्स </li> <li>इमोशनल फ़िट्नेस</li> <li>अपने स्वास्थ को कैसे ट्रैक करे?</li> <li>अपने हेल्थ परिमापों को समझें?</li>  </ul>"
         }
       },
-      {
-        "ques": {
-          "en": "What not to expect?",
-          "hi": "किन चीज़ों की अपेक्षा ना करें?"
-        },
-        "ans": {
-          "en": "<ul>  <li>Reversing diseases completely</li> </ul>",
-          "hi": "<ul> <li> पूरी तरह से डिज़ीज़ रिवर्सल</li> </ul>"
-        }
-      },
+     
+     
       {
         "ques": {
           "en": "Who can do it?",
@@ -53,8 +55,8 @@
           "hi": "प्रक्रिया में क्या मिलेगा? "
         },
         "ans": {
-          "en": "<ul> <li>6-week personalized health protocol</li> <li>Weekly consultation call with Dr. Vipin Gupta</li> <li>2 subject videos every week</li> <li>Daily tracking form</li> <li>Whatsapp voice support by Sehatvan Team</li> <li>Daily schedule</li> <li>Diet planning support</li> <li>New recipes</li> </ul>",
-          "hi": "<ul> <li>6-सप्ताह का पर्सनलाईज़्ड हेल्थ प्रोटोकोल </li> <li>साप्ताहिक कंसलटेशन कॉल डॉ॰ विपिन गुप्ता के साथ </li> <li>2 विषय से सम्बंधित वीडीयोज़ हर सप्ताह </li> <li>रोज़ की ट्रैकिंग के लिए फ़ॉर्म </li> <li> व्हाटसेप पर सेहतवन टीम द्वारा वोइस सपोर्ट </li> <li>प्रतिदिन का शिडयूल</li> <li>डाइयट प्लानिंग सपोर्ट </li> <li>नयी रेसीपीस</li> </ul>"
+          "en": "<ul> <li>4/6-week personalized health protocol</li> <li>Weekly consultation call with Dr. Vipin Gupta</li> <li>2 subject videos every week</li> <li>Daily tracking form</li> <li>Whatsapp voice support by Sehatvan Team</li> <li>Daily schedule</li> <li>Diet planning support</li> <li>New recipes</li> </ul>",
+          "hi": "<ul> <li>4/6-सप्ताह का पर्सनलाईज़्ड हेल्थ प्रोटोकोल </li> <li>साप्ताहिक कंसलटेशन कॉल डॉ॰ विपिन गुप्ता के साथ </li> <li>2 विषय से सम्बंधित वीडीयोज़ हर सप्ताह </li> <li>रोज़ की ट्रैकिंग के लिए फ़ॉर्म </li> <li> व्हाटसेप पर सेहतवन टीम द्वारा वोइस सपोर्ट </li> <li>प्रतिदिन का शिडयूल</li> <li>डाइयट प्लानिंग सपोर्ट </li> <li>नयी रेसीपीस</li> </ul>"
         }
       },
       
@@ -103,12 +105,12 @@
       },
       {
         "ques": {
-          "en": "What is the refund policy?",
-          "hi": "रिफ़ंड पॉलिसी क्या है?"
+          "en": "What not to expect?",
+          "hi": "किन चीज़ों की अपेक्षा ना करें?"
         },
-        "ans": { 
-          "en": "Ideally we request you to join only after you are convinced and willing to commit to the process. If not, we request you to watch out videos to understand more and postpone until you feel ready.  <i>Cancellation (only upto first 5 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the program.",
-          "hi": "हमारा आपसे अनुरोध है की इस प्रोग्राम में तब ही शामिल हो जब आपका इसे करने का दृढ़ निश्चय हो। अगर ऐसा नहीं है, उस परिस्थिति में आप कृपया हमारे विडीओज़ को यूट्यूब पर देखे और समझे। तब करें जब आप इसे करने के लिए ख़ुद को तैयार महसूस करे।<i> Cancellation (प्रक्रिया के पहले ५ दिन तक मान्य )</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the program."
+        "ans": {
+          "en": "<ul>  <li>Reversing diseases completely</li> </ul>",
+          "hi": "<ul> <li> पूरी तरह से डिज़ीज़ रिवर्सल</li> </ul>"
         }
       },
       {

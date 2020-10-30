@@ -7,6 +7,7 @@
     "home": "NA",
     "followup": "NA",
     "indian": "INR 25,000",
+    "revised": "INR 30,000",
     "foreign": "USD 350",
     "video_id":"xrGHTOVNkUg",
     "video_description":"Module Video",
@@ -46,6 +47,8 @@
     "home": "3 to 4 weeks",
     "followup": "1 or 2",
     "indian": "INR 30,000",
+    "revised": "INR 40,000",
+
     "foreign": "USD 350",
     "video_id":"L3A9MncQY_w",
     "video_description":"Module Video",
@@ -105,6 +108,8 @@
     "home": "3 to 4 weeks",
     "followup": "1 or 2",
     "indian": "INR 25,000",
+    "revised": "INR 30,000",
+
     "foreign": "USD 350",
     "video_id":"aeVyLd8YCzo",
     "video_description":"Module Video",
@@ -155,6 +160,8 @@
     "home": "4 to 8 weeks",
     "followup": "1 or 2",
     "indian": "INR 25,000",
+    "revised": "INR 30,000",
+
     "foreign": "USD 400",
     "video_id":"cTnS3gJ18jk",
     "video_description":"Module Video",
@@ -173,6 +180,8 @@
     "home": "4 to 8 weeks",
     "followup": "1 or 2",
     "indian": "INR 35,000",
+    "revised": "INR 40,000",
+
     "foreign": "USD 500",
     "video_id":"8Ow7U7dHcIo",
     "video_description":"Module Video",
@@ -195,6 +204,8 @@
     "home": "8 to 10 weeks",
     "followup": "2 or 3",
     "indian": "INR 45,000",
+    "revised": "INR 50,000",
+
     "foreign": "USD 750",
     "video_id":"brYKdvk_Eqs",
     "video_description":"Module Video",

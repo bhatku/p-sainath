@@ -2,7 +2,7 @@
   <div class="container">
     <h2 class="mb-3 text-center text-primary ">Sehatvan Online Module</h2>
     <hr>
-    <p class="text-center"><em>6-week Fitness-At-Home Program</em>
+    <p class="text-center"><em>Fitness-At-Home Program</em>
     
     </p>
     
@@ -10,6 +10,7 @@
         <div class="col-lg-4 mx-auto text-center p-0">
           
           <div class="nav nav-pills faq-nav" id="faq-tabs" role="tablist" aria-orientation="vertical">
+           
             {{#each online as |category|}}
             <a href="#{{category.tab}}" class="nav-link text-primary" data-toggle="pill" role="tab"
               aria-controls="{{category.tab}}" aria-selected="false">
@@ -31,60 +32,35 @@
                
                 <div class="mx-3">
                  {{#if category.show}}
-                  <p>{{category.text1}}<br> <br>
-                    Dates: Choose your own date to begin. (subject to availability) 
-                    <p>Ongoing Programs</p>
-                    <table class="table table-responsive">
-                      <thead class="thead-light">
-                        <tr>
-                          <th>Module</th>
-                          <th>Duration</th>
-                          <th>Fee Contribution</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <th scope="row">Insulin Activation</th>
-                          <td>6 weeks</td>
-                          <td>INR 25,000 / USD 450</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">Coronary Cleansing</th>
-                          <td>6 weeks</td>
-                          <td>INR 25,000 / USD 450</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">Immunity Enhancement </th>
-                          <td>6 weeks</td>
-                          <td>INR 25,000 / USD 450</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">General Health/ Multiple Issues/ Weight Loss</th>
-                          <td>6 weeks</td>
-                          <td>INR 25,000 / USD 450</td>
-                        </tr>
-                        
-                        <tr>
-                          <th scope="row">Digital Detox</th>
-                          <td>4 weeks</td>
-                          <td>INR 15,000 / USD 350</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">Biohacking</th>
-                          <td>4 weeks</td>
-                          <td>INR 15,000 / USD 350</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">Mental & Emotional Stamina Boosting</th>
-                          <td>4 weeks</td>
-                          <td>INR 15,000 / USD 350</td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  
+                  <p>{{category.text1}}
+                    
+                    <p class="text-left">Personalised fitness-at-home module facilitated by Dr. Gupta & Sehatvan Team. <br> <br>
+                      <strong >Duration:</strong> <ul><li>4 weeks <br> Indian Participants: INR 15,000 <br>International Participants : USD 350</li>
+                        <li>6 weeks <br> Indian Participants: INR 25,000 <br> International Participants : USD 500</li>
+                      </ul> <br>
+                      <strong>Dates: </strong>Choose your own date to begin. (subject to availability) 
+                      <p>
+                      <strong>Possible Objectives:</strong>
+                    <ul class="text-left">
+                      <li>Weight Loss </li>
+                      <li>Thyroidism </li>
+                      <li>Diabetes</li>
+                      <li>BP & Heart</li>
+                      <li>Emotional Health</li>
+                      <li>Auto-immune issues</li>
+                      <li>Digestion</li>
+                      <li>Body Pains</li>
+                      <li>Sleep Improvement</li>
+                      <li>Stamina Building</li>
+                      <li>Others</li>
+              
+                    </ul>
+                   
+                   
+                  </p>
                     
                  
-                  <br> {{>refund}}
+                 {{>refund}}
                  
                   
                   </p>
@@ -125,4 +101,6 @@
       
       </div>
       </div>
+     
+   
 </section>
