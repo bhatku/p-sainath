@@ -170,16 +170,7 @@
           "hi": "भोपाल रेल्वे स्टेशन से – नादरा बस स्टेंड तक आयें(300m)। किसी भी विदिशा जाने वाली बस में बैठें और सूखी सेवानियां गाँव में उतरें। सूखी बस स्टैंड से आमोनी जाने वाले सवारी ऑटो में बैठें और घाटी के पास उतार जाएँ, ऑटो वाले से बोलें आपको आम खोह के पास जाना है।"
         }
       },
-      {
-        "ques": {
-          "en": "What is the refund policy?",
-          "hi": "रिफ़ंड पॉलिसी क्या है?"
-        },
-        "ans": {
-          "en": "<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. We work with a small number of people and hence, cancellations disrupt the sustainence of the space.",
-          "hi": "<i>Cancellation (only upto first 2 days of participation)</i> <br> Rs. 5000/person is deducted and the balance is refunded. <br> <br><i>Change of date:</i> <br> subject to availability and updated fees. हम छोटे ग्रुप में लोगों के साथ काम करते हैं और इसलिए प्रतिभागियों का कैन्सल करना सेहतवन के निर्वाह को प्रभावित करता है।"
-        }
-      },
+     
       {
         "ques": {
           "en": "Can we bring kids? What is the contribution amount for kids?",
